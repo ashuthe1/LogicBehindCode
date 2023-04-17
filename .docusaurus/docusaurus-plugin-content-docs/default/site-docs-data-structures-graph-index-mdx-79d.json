@@ -1,0 +1,30 @@
+{
+  "unversionedId": "data-structures/graph/index",
+  "id": "data-structures/graph/index",
+  "title": "Graph",
+  "description": "Here are some important topics related to graphs that are commonly covered in technical interviews:",
+  "source": "@site/docs/data-structures/graph/index.mdx",
+  "sourceDirName": "data-structures/graph",
+  "slug": "/data-structures/graph/",
+  "permalink": "/data-structures/graph/",
+  "draft": false,
+  "editUrl": "https://github.com/ashuthe1/blog/tree/main/docs/data-structures/graph/index.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Graph",
+    "displayed_sidebar": "dataStructures"
+  },
+  "sidebar": "dataStructures",
+  "previous": {
+    "title": "Introduction to Data Structures",
+    "permalink": "/data-structures/intro"
+  },
+  "next": {
+    "title": "Connected Components",
+    "permalink": "/data-structures/graph/connected-components"
+  }
+}

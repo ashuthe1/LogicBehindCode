@@ -1,0 +1,30 @@
+{
+  "unversionedId": "algorithms/kadanes-algorithm/maximum-subarray-sum",
+  "id": "algorithms/kadanes-algorithm/maximum-subarray-sum",
+  "title": "Maximum Subarray Sum",
+  "description": "Solution",
+  "source": "@site/docs/algorithms/02-kadanes-algorithm/maximum-subarray-sum.mdx",
+  "sourceDirName": "algorithms/02-kadanes-algorithm",
+  "slug": "/algorithms/kadanes-algorithm/maximum-subarray-sum",
+  "permalink": "/algorithms/kadanes-algorithm/maximum-subarray-sum",
+  "draft": false,
+  "editUrl": "https://github.com/ashuthe1/blog/tree/main/docs/algorithms/02-kadanes-algorithm/maximum-subarray-sum.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Maximum Subarray Sum",
+    "displayed_sidebar": "algorithms"
+  },
+  "sidebar": "algorithms",
+  "previous": {
+    "title": "Flip Bits",
+    "permalink": "/algorithms/kadanes-algorithm/flip-bits"
+  },
+  "next": {
+    "title": "Monotonic Stack",
+    "permalink": "/algorithms/monotonic-stack/"
+  }
+}

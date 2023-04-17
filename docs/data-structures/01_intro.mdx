@@ -1,0 +1,25 @@
+---
+sidebar_position: 1
+displayed_sidebar: dataStructures
+---
+
+# Introduction to Data Structures
+
+A data structure is a storage that is used to store and organize data. It is a way of arranging data on a computer so that it can be accessed and updated efficiently.
+
+## Classification of Data Structure
+```mermaid
+graph TD;
+    ds[Data Structures];
+    nl[Non-Linear];
+
+    ds --> nl;
+    nl --> Tree;
+    nl --> Graph;
+
+    ds --> Linear --> Static  --> Array;
+
+    Linear --> Dynamic --> ll[Linked List];
+    Dynamic --> Stack;
+    Dynamic --> Queue;
+```

@@ -1,0 +1,37 @@
+{
+  "unversionedId": "data-structures/graph/bipartite-graph/possible_bipartition",
+  "id": "data-structures/graph/bipartite-graph/possible_bipartition",
+  "title": "Possible Bipartition",
+  "description": "Problem Statement",
+  "source": "@site/docs/data-structures/graph/bipartite-graph/01_possible_bipartition.mdx",
+  "sourceDirName": "data-structures/graph/bipartite-graph",
+  "slug": "/data-structures/graph/bipartite-graph/possible_bipartition",
+  "permalink": "/data-structures/graph/bipartite-graph/possible_bipartition",
+  "draft": false,
+  "editUrl": "https://github.com/ashuthe1/blog/tree/main/docs/data-structures/graph/bipartite-graph/01_possible_bipartition.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Possible Bipartition",
+    "displayed_sidebar": "dataStructures",
+    "keywords": [
+      "Possible Bipartition",
+      "Bipartite",
+      "Graph",
+      "DSA"
+    ]
+  },
+  "sidebar": "dataStructures",
+  "previous": {
+    "title": "Bipartite Graph",
+    "permalink": "/data-structures/graph/bipartite-graph/"
+  },
+  "next": {
+    "title": "Tree",
+    "permalink": "/data-structures/tree/"
+  }
+}

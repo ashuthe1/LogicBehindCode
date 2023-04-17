@@ -1,0 +1,16 @@
+{
+  "title": "StandardProblems",
+  "description": "Important patternt to master interviews!",
+  "slug": "/category/standardproblems",
+  "permalink": "/blog/category/standardproblems",
+  "navigation": {
+    "previous": {
+      "title": "Oops",
+      "permalink": "/blog/algorithms/Oops"
+    },
+    "next": {
+      "title": "Blind75",
+      "permalink": "/blog/StandardProblems/Blind75"
+    }
+  }
+}

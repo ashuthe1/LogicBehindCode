@@ -1,0 +1,27 @@
+{
+  "unversionedId": "data-structures/intro",
+  "id": "data-structures/intro",
+  "title": "Introduction to Data Structures",
+  "description": "A data structure is a storage that is used to store and organize data. It is a way of arranging data on a computer so that it can be accessed and updated efficiently.",
+  "source": "@site/docs/data-structures/01_intro.mdx",
+  "sourceDirName": "data-structures",
+  "slug": "/data-structures/intro",
+  "permalink": "/data-structures/intro",
+  "draft": false,
+  "editUrl": "https://github.com/ashuthe1/blog/tree/main/docs/data-structures/01_intro.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "displayed_sidebar": "dataStructures"
+  },
+  "sidebar": "dataStructures",
+  "next": {
+    "title": "Graph",
+    "permalink": "/data-structures/graph/"
+  }
+}

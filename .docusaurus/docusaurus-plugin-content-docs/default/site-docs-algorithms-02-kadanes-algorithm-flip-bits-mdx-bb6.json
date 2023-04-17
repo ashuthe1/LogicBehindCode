@@ -1,0 +1,37 @@
+{
+  "unversionedId": "algorithms/kadanes-algorithm/flip-bits",
+  "id": "algorithms/kadanes-algorithm/flip-bits",
+  "title": "Flip Bits",
+  "description": "Problem Statement",
+  "source": "@site/docs/algorithms/02-kadanes-algorithm/flip-bits.mdx",
+  "sourceDirName": "algorithms/02-kadanes-algorithm",
+  "slug": "/algorithms/kadanes-algorithm/flip-bits",
+  "permalink": "/algorithms/kadanes-algorithm/flip-bits",
+  "draft": false,
+  "editUrl": "https://github.com/ashuthe1/blog/tree/main/docs/algorithms/02-kadanes-algorithm/flip-bits.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Flip Bits",
+    "displayed_sidebar": "algorithms",
+    "keywords": [
+      "Kadane's Algorithms",
+      "Flip Bits",
+      "Dynamic Programming",
+      "Subarray",
+      "Maximize number of 1s by flipping a subarray"
+    ]
+  },
+  "sidebar": "algorithms",
+  "previous": {
+    "title": "Kadane's Algorithm",
+    "permalink": "/algorithms/kadanes-algorithm/"
+  },
+  "next": {
+    "title": "Maximum Subarray Sum",
+    "permalink": "/algorithms/kadanes-algorithm/maximum-subarray-sum"
+  }
+}

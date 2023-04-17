@@ -1,0 +1,53 @@
+---
+displayed_sidebar: algorithms
+---
+
+# Kadane's Algorithm
+
+Kadane's algorithm is an algorithm for finding the maximum sum of a
+contiguous subarray within a one-dimensional array of numbers. It is
+a simple yet powerful algorithm that can be used to solve a variety
+of problems, including finding the maximum subarray sum in an array
+of integers, the maximum sum of a submatrix in a matrix of integers,
+and the maximum sum of a subsegment in a sequence of integers.
+
+## Steps
+01. Initialize the maximum sum to the first element of the array.
+02. Iterate through the array, starting from the second element.
+03. At each iteration, calculate the maximum sum of the subarray ending
+    at the current element. This can be done by comparing the current
+    element to the sum of the current element and the maximum sum
+    of the subarray ending at the previous element. The maximum of these
+    two values is the maximum sum of the subarray ending at the current element.
+04. Update the maximum sum to be the maximum of the current maximum sum
+    and the maximum sum of the subarray ending at the current element.
+05. Return the maximum sum.
+
+## Example
+Suppose we have the following array of integers:
+
+`[-2, 1, -3, 4, -1, 2, 1, -5, 4]`
+
+We can find the maximum sum of a contiguous subarray using Kadane's algorithm as follows:
+
+01. Initialize the maximum sum to `-2`.
+02. Iterate through the array, starting from the second element.
+03. At each iteration, calculate the maximum sum of the subarray ending at the
+    current element. For example, at the second iteration, we compare `1` to the sum
+    of `1` and `-2` (the maximum sum of the subarray ending at the previous element),
+    and take the maximum of these two values, which is `1`.
+04. Update the maximum sum to be the maximum of the current maximum sum and the
+    maximum sum of the subarray ending at the current element. For example, at
+    the second iteration, we update the maximum sum to be the maximum of `-2`
+    and `1`, which is `1`.
+05. Repeat this process for each element in the array. The final maximum sum will
+    be the maximum sum of a contiguous subarray within the array. In this case, the
+    maximum sum is `6`, which is the sum of the subarray `[4, -1, 2, 1]`.
+
+Kadane's algorithm has a time complexity of `O(n)`, where `n` is the length of the array, making it an efficient solution for finding the maximum sum of a contiguous subarray.
+
+## Problems
+
+import DocCardList from '@theme/DocCardList';
+
+<DocCardList />

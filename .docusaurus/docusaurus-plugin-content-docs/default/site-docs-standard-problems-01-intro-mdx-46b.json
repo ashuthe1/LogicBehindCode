@@ -1,0 +1,27 @@
+{
+  "unversionedId": "standard-problems/intro",
+  "id": "standard-problems/intro",
+  "title": "intro",
+  "description": "SDE Sheet contains very handily crafted and picked top coding interview questions from different topics of Data Structures & Algorithms. These questions are one of the most asked coding interview questions in coding interviews of companies like Amazon, Microsoft, Media.net, Flipkart, etc, and cover almost all of the concepts related to Data Structure & Algorithms",
+  "source": "@site/docs/standard-problems/01_intro.mdx",
+  "sourceDirName": "standard-problems",
+  "slug": "/standard-problems/intro",
+  "permalink": "/standard-problems/intro",
+  "draft": false,
+  "editUrl": "https://github.com/ashuthe1/blog/tree/main/docs/standard-problems/01_intro.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "displayed_sidebar": "StandardProblems"
+  },
+  "sidebar": "StandardProblems",
+  "previous": {
+    "title": "CSES Problem Set",
+    "permalink": "/standard-problems/CSES ProblemSet"
+  }
+}

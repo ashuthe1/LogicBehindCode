@@ -1,0 +1,37 @@
+---
+title: DFS traversal in Tree
+displayed_sidebar: dataStructures
+keywords:
+    - DFS
+    - Depth first search
+    - Tree
+    - Data Structure
+    - Algorithm
+---
+
+# Depth first search in Tree
+
+## Algorithm
+
+```cpp title='Tree: Adjacency List'
+
+void dfs(int curr_node, int parent, vector<vector<int>> &tree) {
+
+    // loop all child of child_node
+    for(int child: tree[curr_node]) {
+
+        // don't visit back parent to avoid infinite loop
+        if(child == parent) continue;
+
+        /* pre processing */
+
+        // recusive call for each child
+        dfs(child, curr_node, tree);
+
+        /* post processing */
+
+    }
+
+}
+
+```

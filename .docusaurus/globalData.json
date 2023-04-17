@@ -1,0 +1,151 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/",
+          "mainDocId": "data-structures/intro",
+          "docs": [
+            {
+              "id": "algorithms/intro",
+              "path": "/algorithms/intro",
+              "sidebar": "algorithms"
+            },
+            {
+              "id": "algorithms/kadanes-algorithm/flip-bits",
+              "path": "/algorithms/kadanes-algorithm/flip-bits",
+              "sidebar": "algorithms"
+            },
+            {
+              "id": "algorithms/kadanes-algorithm/index",
+              "path": "/algorithms/kadanes-algorithm/",
+              "sidebar": "algorithms"
+            },
+            {
+              "id": "algorithms/kadanes-algorithm/maximum-subarray-sum",
+              "path": "/algorithms/kadanes-algorithm/maximum-subarray-sum",
+              "sidebar": "algorithms"
+            },
+            {
+              "id": "algorithms/monotonic-stack/index",
+              "path": "/algorithms/monotonic-stack/",
+              "sidebar": "algorithms"
+            },
+            {
+              "id": "algorithms/Oops",
+              "path": "/algorithms/Oops",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "algorithms/string-algorithms",
+              "path": "/algorithms/string-algorithms",
+              "sidebar": "algorithms"
+            },
+            {
+              "id": "data-structures/graph/bipartite-graph/index",
+              "path": "/data-structures/graph/bipartite-graph/",
+              "sidebar": "dataStructures"
+            },
+            {
+              "id": "data-structures/graph/bipartite-graph/possible_bipartition",
+              "path": "/data-structures/graph/bipartite-graph/possible_bipartition",
+              "sidebar": "dataStructures"
+            },
+            {
+              "id": "data-structures/graph/connected-components",
+              "path": "/data-structures/graph/connected-components",
+              "sidebar": "dataStructures"
+            },
+            {
+              "id": "data-structures/graph/index",
+              "path": "/data-structures/graph/",
+              "sidebar": "dataStructures"
+            },
+            {
+              "id": "data-structures/intro",
+              "path": "/data-structures/intro",
+              "sidebar": "dataStructures"
+            },
+            {
+              "id": "data-structures/tree/dfs",
+              "path": "/data-structures/tree/dfs",
+              "sidebar": "dataStructures"
+            },
+            {
+              "id": "data-structures/tree/index",
+              "path": "/data-structures/tree/",
+              "sidebar": "dataStructures"
+            },
+            {
+              "id": "data-structures/tree/root-shifting",
+              "path": "/data-structures/tree/root-shifting",
+              "sidebar": "dataStructures"
+            },
+            {
+              "id": "standard-problems/Blind75",
+              "path": "/standard-problems/Blind75",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "standard-problems/CSES ProblemSet",
+              "path": "/standard-problems/CSES ProblemSet",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "standard-problems/intro",
+              "path": "/standard-problems/intro",
+              "sidebar": "StandardProblems"
+            },
+            {
+              "id": "/category/data-structures",
+              "path": "/category/data-structures",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "/category/algorithms",
+              "path": "/category/algorithms",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "/category/standard-problems",
+              "path": "/category/standard-problems",
+              "sidebar": "sidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "dataStructures": {
+              "link": {
+                "path": "/data-structures/intro",
+                "label": "data-structures/intro"
+              }
+            },
+            "algorithms": {
+              "link": {
+                "path": "/algorithms/intro",
+                "label": "algorithms/intro"
+              }
+            },
+            "StandardProblems": {
+              "link": {
+                "path": "/standard-problems/Blind75",
+                "label": "standard-problems/Blind75"
+              }
+            },
+            "sidebar": {
+              "link": {
+                "path": "/category/data-structures",
+                "label": "Data Structures"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

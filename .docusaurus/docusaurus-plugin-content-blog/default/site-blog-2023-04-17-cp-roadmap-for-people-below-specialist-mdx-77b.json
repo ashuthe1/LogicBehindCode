@@ -1,0 +1,70 @@
+{
+  "permalink": "/Cp Roadmap for beginners or below Specialist (1500 rating) on CodeForces",
+  "editUrl": "https://github.com/ashuthe1/blog/tree/main/blog/2023-04-17-CP-Roadmap for people below specialist.mdx",
+  "source": "@site/blog/2023-04-17-CP-Roadmap for people below specialist.mdx",
+  "title": "Cp Roadmap for beginners or below Specialist (1500 rating) on CodeForces",
+  "description": "I come across folks who seek guidance for progressing in cp and most of them are pupils / newbies,",
+  "date": "2023-04-17T00:00:00.000Z",
+  "formattedDate": "April 17, 2023",
+  "tags": [
+    {
+      "label": "ethereum",
+      "permalink": "/tags/ethereum"
+    },
+    {
+      "label": "blockchain",
+      "permalink": "/tags/blockchain"
+    },
+    {
+      "label": "smart-contract",
+      "permalink": "/tags/smart-contract"
+    },
+    {
+      "label": "dapp",
+      "permalink": "/tags/dapp"
+    },
+    {
+      "label": "ganache",
+      "permalink": "/tags/ganache"
+    },
+    {
+      "label": "truffle",
+      "permalink": "/tags/truffle"
+    },
+    {
+      "label": "solidity",
+      "permalink": "/tags/solidity"
+    }
+  ],
+  "readingTime": 5.985,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Ashutosh Gautam",
+      "title": "4 🌟 CodeChef </> 🔸Specialist @CodeForces 🔸Problem Setter at iMochaWorks",
+      "url": "https://github.com/ashuthe1",
+      "imageURL": "https://avatars.githubusercontent.com/u/86846633?v=4",
+      "key": "ashuthe1"
+    }
+  ],
+  "frontMatter": {
+    "slug": "Cp Roadmap for beginners or below Specialist (1500 rating) on CodeForces",
+    "title": "Cp Roadmap for beginners or below Specialist (1500 rating) on CodeForces",
+    "authors": [
+      "ashuthe1"
+    ],
+    "tags": [
+      "ethereum",
+      "blockchain",
+      "smart-contract",
+      "dapp",
+      "ganache",
+      "truffle",
+      "solidity"
+    ]
+  },
+  "nextItem": {
+    "title": "232. Implement Queue using Stacks",
+    "permalink": "/leetcode/implement-queue-using-stacks"
+  }
+}

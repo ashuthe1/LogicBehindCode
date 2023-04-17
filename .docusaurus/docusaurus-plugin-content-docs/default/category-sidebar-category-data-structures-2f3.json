@@ -1,0 +1,12 @@
+{
+  "title": "Data Structures",
+  "description": "5 minutes to learn the most important Data Structures.",
+  "slug": "/category/data-structures",
+  "permalink": "/category/data-structures",
+  "navigation": {
+    "next": {
+      "title": "Introduction to Data Structures",
+      "permalink": "/data-structures/intro"
+    }
+  }
+}

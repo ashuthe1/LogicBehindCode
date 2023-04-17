@@ -1,0 +1,35 @@
+{
+  "unversionedId": "data-structures/graph/connected-components",
+  "id": "data-structures/graph/connected-components",
+  "title": "Connected Components",
+  "description": "Practice Problems",
+  "source": "@site/docs/data-structures/graph/01_connected-components.mdx",
+  "sourceDirName": "data-structures/graph",
+  "slug": "/data-structures/graph/connected-components",
+  "permalink": "/data-structures/graph/connected-components",
+  "draft": false,
+  "editUrl": "https://github.com/ashuthe1/blog/tree/main/docs/data-structures/graph/01_connected-components.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Connected Components",
+    "displayed_sidebar": "dataStructures",
+    "keywords": [
+      "Connected Components",
+      "Graph"
+    ]
+  },
+  "sidebar": "dataStructures",
+  "previous": {
+    "title": "Graph",
+    "permalink": "/data-structures/graph/"
+  },
+  "next": {
+    "title": "Bipartite Graph",
+    "permalink": "/data-structures/graph/bipartite-graph/"
+  }
+}

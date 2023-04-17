@@ -1,0 +1,57 @@
+[
+  {
+    "label": "CP",
+    "permalink": "/tags/cp",
+    "count": 1
+  },
+  {
+    "label": "Roadmap",
+    "permalink": "/tags/roadmap",
+    "count": 1
+  },
+  {
+    "label": "DSA",
+    "permalink": "/tags/dsa",
+    "count": 3
+  },
+  {
+    "label": "CodeChef",
+    "permalink": "/tags/code-chef",
+    "count": 1
+  },
+  {
+    "label": "CodeForces",
+    "permalink": "/tags/code-forces",
+    "count": 1
+  },
+  {
+    "label": "LeetCode",
+    "permalink": "/tags/leet-code",
+    "count": 2
+  },
+  {
+    "label": "Leetcode Daily",
+    "permalink": "/tags/leetcode-daily",
+    "count": 2
+  },
+  {
+    "label": "Stack",
+    "permalink": "/tags/stack",
+    "count": 1
+  },
+  {
+    "label": "Queue",
+    "permalink": "/tags/queue",
+    "count": 1
+  },
+  {
+    "label": "Dynamic Programming",
+    "permalink": "/tags/dynamic-programming",
+    "count": 1
+  },
+  {
+    "label": "String",
+    "permalink": "/tags/string",
+    "count": 1
+  }
+]

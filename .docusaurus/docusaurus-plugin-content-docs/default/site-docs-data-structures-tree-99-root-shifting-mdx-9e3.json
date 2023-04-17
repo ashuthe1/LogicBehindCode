@@ -1,0 +1,33 @@
+{
+  "unversionedId": "data-structures/tree/root-shifting",
+  "id": "data-structures/tree/root-shifting",
+  "title": "Root Shifting",
+  "description": "Practice Problems",
+  "source": "@site/docs/data-structures/tree/99-root-shifting.mdx",
+  "sourceDirName": "data-structures/tree",
+  "slug": "/data-structures/tree/root-shifting",
+  "permalink": "/data-structures/tree/root-shifting",
+  "draft": false,
+  "editUrl": "https://github.com/ashuthe1/blog/tree/main/docs/data-structures/tree/99-root-shifting.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "sidebarPosition": 99,
+  "frontMatter": {
+    "title": "Root Shifting",
+    "displayed_sidebar": "dataStructures",
+    "keywords": [
+      "Root Shifting",
+      "Tree",
+      "Data Structure",
+      "Algorithm"
+    ]
+  },
+  "sidebar": "dataStructures",
+  "previous": {
+    "title": "DFS traversal in Tree",
+    "permalink": "/data-structures/tree/dfs"
+  }
+}

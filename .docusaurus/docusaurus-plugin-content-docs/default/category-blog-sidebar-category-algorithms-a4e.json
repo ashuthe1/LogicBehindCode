@@ -1,0 +1,16 @@
+{
+  "title": "Algorithms",
+  "description": "5 minutes to learn the most important Algorithms.",
+  "slug": "/category/algorithms",
+  "permalink": "/blog/category/algorithms",
+  "navigation": {
+    "previous": {
+      "title": "Root Shifting",
+      "permalink": "/blog/data-structures/tree/root-shifting"
+    },
+    "next": {
+      "title": "Introduction to Algorithms",
+      "permalink": "/blog/algorithms/intro"
+    }
+  }
+}

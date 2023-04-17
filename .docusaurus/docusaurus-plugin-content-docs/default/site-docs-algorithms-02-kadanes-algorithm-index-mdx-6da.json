@@ -1,0 +1,29 @@
+{
+  "unversionedId": "algorithms/kadanes-algorithm/index",
+  "id": "algorithms/kadanes-algorithm/index",
+  "title": "Kadane's Algorithm",
+  "description": "Kadane's algorithm is an algorithm for finding the maximum sum of a",
+  "source": "@site/docs/algorithms/02-kadanes-algorithm/index.mdx",
+  "sourceDirName": "algorithms/02-kadanes-algorithm",
+  "slug": "/algorithms/kadanes-algorithm/",
+  "permalink": "/algorithms/kadanes-algorithm/",
+  "draft": false,
+  "editUrl": "https://github.com/ashuthe1/blog/tree/main/docs/algorithms/02-kadanes-algorithm/index.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "displayed_sidebar": "algorithms"
+  },
+  "sidebar": "algorithms",
+  "previous": {
+    "title": "Introduction to Algorithms",
+    "permalink": "/algorithms/intro"
+  },
+  "next": {
+    "title": "Flip Bits",
+    "permalink": "/algorithms/kadanes-algorithm/flip-bits"
+  }
+}

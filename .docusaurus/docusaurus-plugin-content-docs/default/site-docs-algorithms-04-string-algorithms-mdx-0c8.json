@@ -1,0 +1,35 @@
+{
+  "unversionedId": "algorithms/string-algorithms",
+  "id": "algorithms/string-algorithms",
+  "title": "String Algorithms",
+  "description": "Here is a list of some common string algorithms:",
+  "source": "@site/docs/algorithms/04-string-algorithms.mdx",
+  "sourceDirName": "algorithms",
+  "slug": "/algorithms/string-algorithms",
+  "permalink": "/algorithms/string-algorithms",
+  "draft": false,
+  "editUrl": "https://github.com/ashuthe1/blog/tree/main/docs/algorithms/04-string-algorithms.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "title": "String Algorithms",
+    "displayed_sidebar": "algorithms",
+    "keywords": [
+      "Algorithms on String",
+      "String"
+    ]
+  },
+  "sidebar": "algorithms",
+  "previous": {
+    "title": "Monotonic Stack",
+    "permalink": "/algorithms/monotonic-stack/"
+  },
+  "next": {
+    "title": "Oops",
+    "permalink": "/algorithms/Oops"
+  }
+}

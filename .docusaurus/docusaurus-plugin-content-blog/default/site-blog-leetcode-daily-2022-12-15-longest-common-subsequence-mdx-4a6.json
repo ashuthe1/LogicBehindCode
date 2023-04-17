@@ -1,0 +1,58 @@
+{
+  "permalink": "/leetcode/longest-common-subsequence",
+  "editUrl": "https://github.com/ashuthe1/blog/tree/main/blog/leetcode-daily/2022-12-15-longest-common-subsequence.mdx",
+  "source": "@site/blog/leetcode-daily/2022-12-15-longest-common-subsequence.mdx",
+  "title": "1143. Longest Common Subsequence, LeetCode",
+  "description": "Problem Statement",
+  "date": "2022-12-15T00:00:00.000Z",
+  "formattedDate": "December 15, 2022",
+  "tags": [
+    {
+      "label": "LeetCode",
+      "permalink": "/tags/leet-code"
+    },
+    {
+      "label": "Leetcode Daily",
+      "permalink": "/tags/leetcode-daily"
+    },
+    {
+      "label": "DSA",
+      "permalink": "/tags/dsa"
+    },
+    {
+      "label": "Dynamic Programming",
+      "permalink": "/tags/dynamic-programming"
+    },
+    {
+      "label": "String",
+      "permalink": "/tags/string"
+    }
+  ],
+  "readingTime": 3.105,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Ashutosh Gautam",
+      "title": "4 🌟 CodeChef </> 🔸Specialist @CodeForces 🔸Problem Setter at iMochaWorks",
+      "url": "https://github.com/ashuthe1",
+      "imageURL": "https://avatars.githubusercontent.com/u/86846633?v=4",
+      "key": "ashuthe1"
+    }
+  ],
+  "frontMatter": {
+    "slug": "leetcode/longest-common-subsequence",
+    "title": "1143. Longest Common Subsequence, LeetCode",
+    "authors": "ashuthe1",
+    "tags": [
+      "LeetCode",
+      "Leetcode Daily",
+      "DSA",
+      "Dynamic Programming",
+      "String"
+    ]
+  },
+  "prevItem": {
+    "title": "232. Implement Queue using Stacks",
+    "permalink": "/leetcode/implement-queue-using-stacks"
+  }
+}

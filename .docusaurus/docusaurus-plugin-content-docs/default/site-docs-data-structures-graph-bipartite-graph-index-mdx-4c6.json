@@ -1,0 +1,34 @@
+{
+  "unversionedId": "data-structures/graph/bipartite-graph/index",
+  "id": "data-structures/graph/bipartite-graph/index",
+  "title": "Bipartite Graph",
+  "description": "Solved Examples",
+  "source": "@site/docs/data-structures/graph/bipartite-graph/index.mdx",
+  "sourceDirName": "data-structures/graph/bipartite-graph",
+  "slug": "/data-structures/graph/bipartite-graph/",
+  "permalink": "/data-structures/graph/bipartite-graph/",
+  "draft": false,
+  "editUrl": "https://github.com/ashuthe1/blog/tree/main/docs/data-structures/graph/bipartite-graph/index.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Bipartite Graph",
+    "displayed_sidebar": "dataStructures",
+    "keywords": [
+      "Bipartite",
+      "Graph"
+    ]
+  },
+  "sidebar": "dataStructures",
+  "previous": {
+    "title": "Connected Components",
+    "permalink": "/data-structures/graph/connected-components"
+  },
+  "next": {
+    "title": "Possible Bipartition",
+    "permalink": "/data-structures/graph/bipartite-graph/possible_bipartition"
+  }
+}

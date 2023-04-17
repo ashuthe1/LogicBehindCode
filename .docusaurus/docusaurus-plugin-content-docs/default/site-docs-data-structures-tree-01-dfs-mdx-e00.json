@@ -1,0 +1,38 @@
+{
+  "unversionedId": "data-structures/tree/dfs",
+  "id": "data-structures/tree/dfs",
+  "title": "DFS traversal in Tree",
+  "description": "Algorithm",
+  "source": "@site/docs/data-structures/tree/01-dfs.mdx",
+  "sourceDirName": "data-structures/tree",
+  "slug": "/data-structures/tree/dfs",
+  "permalink": "/data-structures/tree/dfs",
+  "draft": false,
+  "editUrl": "https://github.com/ashuthe1/blog/tree/main/docs/data-structures/tree/01-dfs.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "DFS traversal in Tree",
+    "displayed_sidebar": "dataStructures",
+    "keywords": [
+      "DFS",
+      "Depth first search",
+      "Tree",
+      "Data Structure",
+      "Algorithm"
+    ]
+  },
+  "sidebar": "dataStructures",
+  "previous": {
+    "title": "Tree",
+    "permalink": "/data-structures/tree/"
+  },
+  "next": {
+    "title": "Root Shifting",
+    "permalink": "/data-structures/tree/root-shifting"
+  }
+}

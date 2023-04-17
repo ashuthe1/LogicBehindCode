@@ -1,0 +1,28 @@
+{
+  "unversionedId": "Standard Problems/Blind75",
+  "id": "Standard Problems/Blind75",
+  "title": "Blind75",
+  "description": "Array",
+  "source": "@site/docs/Standard Problems/01-Blind75.md",
+  "sourceDirName": "Standard Problems",
+  "slug": "/Standard Problems/Blind75",
+  "permalink": "/Standard Problems/Blind75",
+  "draft": false,
+  "editUrl": "https://github.com/ashuthe1/blog/tree/main/docs/Standard Problems/01-Blind75.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "sidebarPosition": 1,
+  "frontMatter": {},
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "StandardProblems",
+    "permalink": "/category/standardproblems"
+  },
+  "next": {
+    "title": "CSES Problem Set",
+    "permalink": "/Standard Problems/CSES ProblemSet"
+  }
+}

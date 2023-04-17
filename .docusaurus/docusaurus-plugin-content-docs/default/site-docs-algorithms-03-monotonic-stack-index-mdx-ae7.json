@@ -1,0 +1,29 @@
+{
+  "unversionedId": "algorithms/monotonic-stack/index",
+  "id": "algorithms/monotonic-stack/index",
+  "title": "Monotonic Stack",
+  "description": "Problems",
+  "source": "@site/docs/algorithms/03-monotonic-stack/index.mdx",
+  "sourceDirName": "algorithms/03-monotonic-stack",
+  "slug": "/algorithms/monotonic-stack/",
+  "permalink": "/algorithms/monotonic-stack/",
+  "draft": false,
+  "editUrl": "https://github.com/ashuthe1/blog/tree/main/docs/algorithms/03-monotonic-stack/index.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "displayed_sidebar": "algorithms"
+  },
+  "sidebar": "algorithms",
+  "previous": {
+    "title": "Maximum Subarray Sum",
+    "permalink": "/algorithms/kadanes-algorithm/maximum-subarray-sum"
+  },
+  "next": {
+    "title": "String Algorithms",
+    "permalink": "/algorithms/string-algorithms"
+  }
+}

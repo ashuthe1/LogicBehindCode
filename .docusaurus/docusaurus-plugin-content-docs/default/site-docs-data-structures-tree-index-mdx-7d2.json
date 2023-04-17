@@ -1,0 +1,35 @@
+{
+  "unversionedId": "data-structures/tree/index",
+  "id": "data-structures/tree/index",
+  "title": "Tree",
+  "description": "Here are some important topics related to trees that are commonly covered in technical interviews:",
+  "source": "@site/docs/data-structures/tree/index.mdx",
+  "sourceDirName": "data-structures/tree",
+  "slug": "/data-structures/tree/",
+  "permalink": "/data-structures/tree/",
+  "draft": false,
+  "editUrl": "https://github.com/ashuthe1/blog/tree/main/docs/data-structures/tree/index.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Tree",
+    "displayed_sidebar": "dataStructures",
+    "keywords": [
+      "Tree",
+      "DSA",
+      "Algorithms"
+    ]
+  },
+  "sidebar": "dataStructures",
+  "previous": {
+    "title": "Possible Bipartition",
+    "permalink": "/data-structures/graph/bipartite-graph/possible_bipartition"
+  },
+  "next": {
+    "title": "DFS traversal in Tree",
+    "permalink": "/data-structures/tree/dfs"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "permalink": "/change-ssh-port-in-linux-centos",
+  "editUrl": "https://github.com/ashuthe1/blog/tree/main/blog/2022-12-08-change-ssh-port-in-linux-centos.mdx",
+  "source": "@site/blog/2022-12-08-change-ssh-port-in-linux-centos.mdx",
+  "title": "Change SSH Port in Linux CentOS (Oracle Linux 8)",
+  "description": "On Linux systems, the default SSH port is 22. There are a few reasons",
+  "date": "2022-12-08T00:00:00.000Z",
+  "formattedDate": "December 8, 2022",
+  "tags": [
+    {
+      "label": "linux",
+      "permalink": "/tags/linux"
+    },
+    {
+      "label": "ssh",
+      "permalink": "/tags/ssh"
+    },
+    {
+      "label": "firewalld",
+      "permalink": "/tags/firewalld"
+    },
+    {
+      "label": "semanage",
+      "permalink": "/tags/semanage"
+    }
+  ],
+  "readingTime": 1.78,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Ashutosh Gautam",
+      "title": "4 🌟 CodeChef </> 🔸Specialist @CodeForces 🔸Problem Setter at iMochaWorks",
+      "url": "https://github.com/ashuthe1",
+      "imageURL": "https://avatars.githubusercontent.com/u/86846633?v=4",
+      "key": "ashuthe1"
+    }
+  ],
+  "frontMatter": {
+    "slug": "change-ssh-port-in-linux-centos",
+    "title": "Change SSH Port in Linux CentOS (Oracle Linux 8)",
+    "authors": [
+      "ashuthe1"
+    ],
+    "tags": [
+      "linux",
+      "ssh",
+      "firewalld",
+      "semanage"
+    ]
+  },
+  "prevItem": {
+    "title": "1143. Longest Common Subsequence, LeetCode",
+    "permalink": "/leetcode/longest-common-subsequence"
+  }
+}
