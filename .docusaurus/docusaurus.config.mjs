@@ -4,7 +4,7 @@
  * Modify the docusaurus.config.js file at your site's root instead.
  */
 export default {
-  "title": "Ashutosh Blogs",
+  "title": "Ashutosh Blogs </>",
   "tagline": "Summarising my Coding Journey",
   "url": "https://ashutoshgautam.dev",
   "baseUrl": "/",
@@ -52,7 +52,7 @@ export default {
   ],
   "themeConfig": {
     "navbar": {
-      "title": "Ashutosh Blogs!",
+      "title": "Ashutosh Blogs </>",
       "logo": {
         "alt": "My Site Logo",
         "src": "https://ashutoshgautam.dev/static/media/pf3.90874d7910affe4198b6.png"
@@ -353,6 +353,13 @@ export default {
         }
       ]
     },
+    "mermaid": {
+      "theme": {
+        "dark": "dark",
+        "light": "default"
+      },
+      "options": {}
+    },
     "colorMode": {
       "defaultMode": "light",
       "disableSwitch": false,
@@ -369,13 +376,6 @@ export default {
     "tableOfContents": {
       "minHeadingLevel": 2,
       "maxHeadingLevel": 3
-    },
-    "mermaid": {
-      "theme": {
-        "dark": "dark",
-        "light": "default"
-      },
-      "options": {}
     }
   },
   "baseUrlIssueBanner": true,
