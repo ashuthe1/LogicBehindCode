@@ -1,90 +1,90 @@
 {
-  "/__docusaurus/debug-a56": {
+  "/__docusaurus/debug-4bf": {
     "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "plugin---docusaurus-debug-796-369"
+      "plugin": "plugin---docusaurus-debug-8-ba-4f1"
     }
   },
-  "/__docusaurus/debug/config-de7": {
+  "/__docusaurus/debug/config-c1a": {
     "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "plugin---docusaurus-debug-796-369"
+      "plugin": "plugin---docusaurus-debug-8-ba-4f1"
     }
   },
-  "/__docusaurus/debug/content-6ab": {
+  "/__docusaurus/debug/content-e6f": {
     "__comp": "__comp---theme-debug-contentba-8-ce7",
     "__context": {
-      "plugin": "plugin---docusaurus-debug-796-369"
+      "plugin": "plugin---docusaurus-debug-8-ba-4f1"
     },
     "allContent": "allContent---docusaurus-debug-content-246-9aa"
   },
-  "/__docusaurus/debug/globalData-58c": {
+  "/__docusaurus/debug/globalData-951": {
     "__comp": "__comp---theme-debug-global-dataede-0fa",
     "__context": {
-      "plugin": "plugin---docusaurus-debug-796-369"
+      "plugin": "plugin---docusaurus-debug-8-ba-4f1"
     }
   },
-  "/__docusaurus/debug/metadata-cfd": {
+  "/__docusaurus/debug/metadata-677": {
     "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
     "__context": {
-      "plugin": "plugin---docusaurus-debug-796-369"
+      "plugin": "plugin---docusaurus-debug-8-ba-4f1"
     }
   },
-  "/__docusaurus/debug/registry-106": {
+  "/__docusaurus/debug/registry-09c": {
     "__comp": "__comp---theme-debug-registry-679-501",
     "__context": {
-      "plugin": "plugin---docusaurus-debug-796-369"
+      "plugin": "plugin---docusaurus-debug-8-ba-4f1"
     }
   },
-  "/__docusaurus/debug/routes-559": {
+  "/__docusaurus/debug/routes-b9f": {
     "__comp": "__comp---theme-debug-routes-946-699",
     "__context": {
-      "plugin": "plugin---docusaurus-debug-796-369"
+      "plugin": "plugin---docusaurus-debug-8-ba-4f1"
     }
   },
-  "/archive-0b4": {
+  "/archive-fde": {
     "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
     "__context": {
-      "plugin": "plugin---archive-154-5b0"
+      "plugin": "plugin---archive-5-b-0-74f"
     },
     "archive": "archive---archive-2-e-8-25f"
   },
-  "/cp-roadmap-for-beginners-and-people-below-specialist-c6b": {
+  "/cp-roadmap-for-beginners-and-people-below-specialist-f9d": {
     "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
-      "plugin": "plugin---archive-154-5b0"
+      "plugin": "plugin---archive-5-b-0-74f"
     },
     "sidebar": "sidebar---cp-roadmap-for-beginners-and-people-below-specialist-814-4ee",
     "content": "content---cp-roadmap-for-beginners-and-people-below-specialistcdd-bfb"
   },
-  "/leetcode/implement-queue-using-stacks-0d5": {
+  "/leetcode/implement-queue-using-stacks-c9a": {
     "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
-      "plugin": "plugin---archive-154-5b0"
+      "plugin": "plugin---archive-5-b-0-74f"
     },
     "sidebar": "sidebar---cp-roadmap-for-beginners-and-people-below-specialist-814-4ee",
     "content": "content---leetcode-implement-queue-using-stacks-0-de-1fc"
   },
-  "/leetcode/longest-common-subsequence-788": {
+  "/leetcode/longest-common-subsequence-018": {
     "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
-      "plugin": "plugin---archive-154-5b0"
+      "plugin": "plugin---archive-5-b-0-74f"
     },
     "sidebar": "sidebar---cp-roadmap-for-beginners-and-people-below-specialist-814-4ee",
     "content": "content---leetcode-longest-common-subsequence-4-a-6-a9b"
   },
-  "/tags-cf7": {
+  "/tags-cf0": {
     "__comp": "__comp---theme-blog-tags-list-page-01-a-d0b",
     "__context": {
-      "plugin": "plugin---archive-154-5b0"
+      "plugin": "plugin---archive-5-b-0-74f"
     },
     "sidebar": "sidebar---cp-roadmap-for-beginners-and-people-below-specialist-814-4ee",
     "tags": "tags---tagsc-57-e72"
   },
-  "/tags/code-chef-7b4": {
+  "/tags/code-chef-ec2": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "plugin---archive-154-5b0"
+      "plugin": "plugin---archive-5-b-0-74f"
     },
     "sidebar": "sidebar---cp-roadmap-for-beginners-and-people-below-specialist-814-4ee",
     "items": [
@@ -95,10 +95,10 @@
     "tag": "tag---tags-code-chef-434-211",
     "listMetadata": "listMetadata---tags-code-chefac-8-a44"
   },
-  "/tags/code-forces-d25": {
+  "/tags/code-forces-e6a": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "plugin---archive-154-5b0"
+      "plugin": "plugin---archive-5-b-0-74f"
     },
     "sidebar": "sidebar---cp-roadmap-for-beginners-and-people-below-specialist-814-4ee",
     "items": [
@@ -109,10 +109,10 @@
     "tag": "tag---tags-code-forces-95-a-ded",
     "listMetadata": "listMetadata---tags-code-forcesfd-7-3af"
   },
-  "/tags/cp-8c3": {
+  "/tags/cp-9cd": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "plugin---archive-154-5b0"
+      "plugin": "plugin---archive-5-b-0-74f"
     },
     "sidebar": "sidebar---cp-roadmap-for-beginners-and-people-below-specialist-814-4ee",
     "items": [
@@ -123,10 +123,10 @@
     "tag": "tag---tags-cp-71-b-9bc",
     "listMetadata": "listMetadata---tags-cp-37-a-10d"
   },
-  "/tags/dsa-845": {
+  "/tags/dsa-afb": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "plugin---archive-154-5b0"
+      "plugin": "plugin---archive-5-b-0-74f"
     },
     "sidebar": "sidebar---cp-roadmap-for-beginners-and-people-below-specialist-814-4ee",
     "items": [
@@ -143,10 +143,10 @@
     "tag": "tag---tags-dsab-8-c-e2d",
     "listMetadata": "listMetadata---tags-dsafc-2-406"
   },
-  "/tags/dynamic-programming-540": {
+  "/tags/dynamic-programming-953": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "plugin---archive-154-5b0"
+      "plugin": "plugin---archive-5-b-0-74f"
     },
     "sidebar": "sidebar---cp-roadmap-for-beginners-and-people-below-specialist-814-4ee",
     "items": [
@@ -157,10 +157,10 @@
     "tag": "tag---tags-dynamic-programming-685-10c",
     "listMetadata": "listMetadata---tags-dynamic-programmingeef-1b5"
   },
-  "/tags/leet-code-d23": {
+  "/tags/leet-code-ecd": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "plugin---archive-154-5b0"
+      "plugin": "plugin---archive-5-b-0-74f"
     },
     "sidebar": "sidebar---cp-roadmap-for-beginners-and-people-below-specialist-814-4ee",
     "items": [
@@ -174,10 +174,10 @@
     "tag": "tag---tags-leet-code-807-86f",
     "listMetadata": "listMetadata---tags-leet-code-74-c-8b5"
   },
-  "/tags/leetcode-daily-8a2": {
+  "/tags/leetcode-daily-4e5": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "plugin---archive-154-5b0"
+      "plugin": "plugin---archive-5-b-0-74f"
     },
     "sidebar": "sidebar---cp-roadmap-for-beginners-and-people-below-specialist-814-4ee",
     "items": [
@@ -191,10 +191,10 @@
     "tag": "tag---tags-leetcode-daily-3-a-6-3e5",
     "listMetadata": "listMetadata---tags-leetcode-daily-941-bed"
   },
-  "/tags/queue-5cf": {
+  "/tags/queue-574": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "plugin---archive-154-5b0"
+      "plugin": "plugin---archive-5-b-0-74f"
     },
     "sidebar": "sidebar---cp-roadmap-for-beginners-and-people-below-specialist-814-4ee",
     "items": [
@@ -205,10 +205,10 @@
     "tag": "tag---tags-queue-66-c-92f",
     "listMetadata": "listMetadata---tags-queue-762-79f"
   },
-  "/tags/roadmap-b75": {
+  "/tags/roadmap-93e": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "plugin---archive-154-5b0"
+      "plugin": "plugin---archive-5-b-0-74f"
     },
     "sidebar": "sidebar---cp-roadmap-for-beginners-and-people-below-specialist-814-4ee",
     "items": [
@@ -219,10 +219,10 @@
     "tag": "tag---tags-roadmapdcf-5e5",
     "listMetadata": "listMetadata---tags-roadmap-962-7f0"
   },
-  "/tags/stack-bf2": {
+  "/tags/stack-02b": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "plugin---archive-154-5b0"
+      "plugin": "plugin---archive-5-b-0-74f"
     },
     "sidebar": "sidebar---cp-roadmap-for-beginners-and-people-below-specialist-814-4ee",
     "items": [
@@ -233,10 +233,10 @@
     "tag": "tag---tags-stackcf-1-58e",
     "listMetadata": "listMetadata---tags-stack-185-0ef"
   },
-  "/tags/string-5aa": {
+  "/tags/string-b95": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "plugin---archive-154-5b0"
+      "plugin": "plugin---archive-5-b-0-74f"
     },
     "sidebar": "sidebar---cp-roadmap-for-beginners-and-people-below-specialist-814-4ee",
     "items": [
@@ -247,10 +247,10 @@
     "tag": "tag---tags-string-66-b-c19",
     "listMetadata": "listMetadata---tags-string-196-b87"
   },
-  "/-c84": {
+  "/-36c": {
     "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
     "__context": {
-      "plugin": "plugin---archive-154-5b0"
+      "plugin": "plugin---archive-5-b-0-74f"
     },
     "sidebar": "sidebar---cp-roadmap-for-beginners-and-people-below-specialist-814-4ee",
     "items": [
@@ -266,10 +266,10 @@
     ],
     "metadata": "metadata---a-55-c63"
   },
-  "/-af2": {
+  "/-114": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
-      "plugin": "plugin---2-e-5-461"
+      "plugin": "plugin---f-90-6b7"
     },
     "versionMetadata": "versionMetadata---935-fcf"
   },
@@ -292,10 +292,6 @@
   "/algorithms/monotonic-stack-301": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---algorithms-monotonic-stackae-7-19e"
-  },
-  "/algorithms/Oops-11d": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---algorithms-oopsc-12-49b"
   },
   "/algorithms/string-algorithms-24e": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -345,13 +341,13 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---data-structures-tree-root-shifting-9-e-3-67f"
   },
-  "/standard-problems/Blind75-e2a": {
+  "/standard-problems/Blind75-ba2": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---standard-problems-blind-75958-d61"
+    "content": "content---standard-problems-blind-7567-c-0b7"
   },
-  "/standard-problems/CSES ProblemSet-a41": {
+  "/standard-problems/CSES ProblemSet-168": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---standard-problems-cses-problem-setc-96-a23"
+    "content": "content---standard-problems-cses-problem-setaf-9-a15"
   },
   "/standard-problems/intro-ac8": {
     "__comp": "__comp---theme-doc-item-178-a40",

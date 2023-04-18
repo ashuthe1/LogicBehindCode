@@ -33,7 +33,7 @@ export default {
       "classic",
       {
         "docs": {
-          "sidebarPath": "/home/ashuthe1/projects/personal/AshutoshBlogs-/sidebars.js",
+          "sidebarPath": "/home/ashuthe1/projects/personal/AshutoshBlogs/sidebars.js",
           "editUrl": "https://github.com/ashuthe1/blog/tree/main/",
           "routeBasePath": "/",
           "showLastUpdateTime": true,
@@ -45,7 +45,7 @@ export default {
           "editUrl": "https://github.com/ashuthe1/blog/tree/main/"
         },
         "theme": {
-          "customCss": "/home/ashuthe1/projects/personal/AshutoshBlogs-/src/css/custom.css"
+          "customCss": "/home/ashuthe1/projects/personal/AshutoshBlogs/src/css/custom.css"
         }
       }
     ]
@@ -72,7 +72,7 @@ export default {
         },
         {
           "type": "doc",
-          "docId": "standard-problems/intro",
+          "docId": "standard-problems/Blind75",
           "position": "left",
           "label": "Standard Problems"
         },
@@ -88,7 +88,7 @@ export default {
         },
         {
           "href": "https://ashutoshgautam.dev",
-          "label": "Website",
+          "label": "Portfolio",
           "position": "right"
         }
       ],

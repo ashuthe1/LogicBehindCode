@@ -36,11 +36,6 @@
               "sidebar": "algorithms"
             },
             {
-              "id": "algorithms/Oops",
-              "path": "/algorithms/Oops",
-              "sidebar": "sidebar"
-            },
-            {
               "id": "algorithms/string-algorithms",
               "path": "/algorithms/string-algorithms",
               "sidebar": "algorithms"

@@ -21,6 +21,10 @@
   },
   "sidebar": "StandardProblems",
   "previous": {
+    "title": "Blind75",
+    "permalink": "/standard-problems/Blind75"
+  },
+  "next": {
     "title": "CSES Problem Set",
     "permalink": "/standard-problems/CSES ProblemSet"
   }

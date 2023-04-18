@@ -106,12 +106,6 @@
         "label": "String Algorithms",
         "href": "/algorithms/string-algorithms",
         "docId": "algorithms/string-algorithms"
-      },
-      {
-        "type": "link",
-        "label": "Oops",
-        "href": "/algorithms/Oops",
-        "docId": "algorithms/Oops"
       }
     ],
     "StandardProblems": [
@@ -123,15 +117,15 @@
       },
       {
         "type": "link",
-        "label": "CSES Problem Set",
-        "href": "/standard-problems/CSES ProblemSet",
-        "docId": "standard-problems/CSES ProblemSet"
-      },
-      {
-        "type": "link",
         "label": "intro",
         "href": "/standard-problems/intro",
         "docId": "standard-problems/intro"
+      },
+      {
+        "type": "link",
+        "label": "CSES Problem Set",
+        "href": "/standard-problems/CSES ProblemSet",
+        "docId": "standard-problems/CSES ProblemSet"
       }
     ],
     "sidebar": [
@@ -245,12 +239,6 @@
             "label": "String Algorithms",
             "href": "/algorithms/string-algorithms",
             "docId": "algorithms/string-algorithms"
-          },
-          {
-            "type": "link",
-            "label": "Oops",
-            "href": "/algorithms/Oops",
-            "docId": "algorithms/Oops"
           }
         ],
         "href": "/category/algorithms"
@@ -269,15 +257,15 @@
           },
           {
             "type": "link",
-            "label": "CSES Problem Set",
-            "href": "/standard-problems/CSES ProblemSet",
-            "docId": "standard-problems/CSES ProblemSet"
-          },
-          {
-            "type": "link",
             "label": "intro",
             "href": "/standard-problems/intro",
             "docId": "standard-problems/intro"
+          },
+          {
+            "type": "link",
+            "label": "CSES Problem Set",
+            "href": "/standard-problems/CSES ProblemSet",
+            "docId": "standard-problems/CSES ProblemSet"
           }
         ],
         "href": "/category/standard-problems"
@@ -314,12 +302,6 @@
       "title": "Monotonic Stack",
       "description": "Problems",
       "sidebar": "algorithms"
-    },
-    "algorithms/Oops": {
-      "id": "algorithms/Oops",
-      "title": "Oops",
-      "description": "OOPS :",
-      "sidebar": "sidebar"
     },
     "algorithms/string-algorithms": {
       "id": "algorithms/string-algorithms",

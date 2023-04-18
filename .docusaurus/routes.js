@@ -4,127 +4,127 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 export default [
   {
     path: '/__docusaurus/debug',
-    component: ComponentCreator('/__docusaurus/debug', 'a56'),
+    component: ComponentCreator('/__docusaurus/debug', '4bf'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/config',
-    component: ComponentCreator('/__docusaurus/debug/config', 'de7'),
+    component: ComponentCreator('/__docusaurus/debug/config', 'c1a'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/content',
-    component: ComponentCreator('/__docusaurus/debug/content', '6ab'),
+    component: ComponentCreator('/__docusaurus/debug/content', 'e6f'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/globalData',
-    component: ComponentCreator('/__docusaurus/debug/globalData', '58c'),
+    component: ComponentCreator('/__docusaurus/debug/globalData', '951'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/metadata',
-    component: ComponentCreator('/__docusaurus/debug/metadata', 'cfd'),
+    component: ComponentCreator('/__docusaurus/debug/metadata', '677'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/registry',
-    component: ComponentCreator('/__docusaurus/debug/registry', '106'),
+    component: ComponentCreator('/__docusaurus/debug/registry', '09c'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/routes',
-    component: ComponentCreator('/__docusaurus/debug/routes', '559'),
+    component: ComponentCreator('/__docusaurus/debug/routes', 'b9f'),
     exact: true
   },
   {
     path: '/archive',
-    component: ComponentCreator('/archive', '0b4'),
+    component: ComponentCreator('/archive', 'fde'),
     exact: true
   },
   {
     path: '/cp-roadmap-for-beginners-and-people-below-specialist',
-    component: ComponentCreator('/cp-roadmap-for-beginners-and-people-below-specialist', 'c6b'),
+    component: ComponentCreator('/cp-roadmap-for-beginners-and-people-below-specialist', 'f9d'),
     exact: true
   },
   {
     path: '/leetcode/implement-queue-using-stacks',
-    component: ComponentCreator('/leetcode/implement-queue-using-stacks', '0d5'),
+    component: ComponentCreator('/leetcode/implement-queue-using-stacks', 'c9a'),
     exact: true
   },
   {
     path: '/leetcode/longest-common-subsequence',
-    component: ComponentCreator('/leetcode/longest-common-subsequence', '788'),
+    component: ComponentCreator('/leetcode/longest-common-subsequence', '018'),
     exact: true
   },
   {
     path: '/tags',
-    component: ComponentCreator('/tags', 'cf7'),
+    component: ComponentCreator('/tags', 'cf0'),
     exact: true
   },
   {
     path: '/tags/code-chef',
-    component: ComponentCreator('/tags/code-chef', '7b4'),
+    component: ComponentCreator('/tags/code-chef', 'ec2'),
     exact: true
   },
   {
     path: '/tags/code-forces',
-    component: ComponentCreator('/tags/code-forces', 'd25'),
+    component: ComponentCreator('/tags/code-forces', 'e6a'),
     exact: true
   },
   {
     path: '/tags/cp',
-    component: ComponentCreator('/tags/cp', '8c3'),
+    component: ComponentCreator('/tags/cp', '9cd'),
     exact: true
   },
   {
     path: '/tags/dsa',
-    component: ComponentCreator('/tags/dsa', '845'),
+    component: ComponentCreator('/tags/dsa', 'afb'),
     exact: true
   },
   {
     path: '/tags/dynamic-programming',
-    component: ComponentCreator('/tags/dynamic-programming', '540'),
+    component: ComponentCreator('/tags/dynamic-programming', '953'),
     exact: true
   },
   {
     path: '/tags/leet-code',
-    component: ComponentCreator('/tags/leet-code', 'd23'),
+    component: ComponentCreator('/tags/leet-code', 'ecd'),
     exact: true
   },
   {
     path: '/tags/leetcode-daily',
-    component: ComponentCreator('/tags/leetcode-daily', '8a2'),
+    component: ComponentCreator('/tags/leetcode-daily', '4e5'),
     exact: true
   },
   {
     path: '/tags/queue',
-    component: ComponentCreator('/tags/queue', '5cf'),
+    component: ComponentCreator('/tags/queue', '574'),
     exact: true
   },
   {
     path: '/tags/roadmap',
-    component: ComponentCreator('/tags/roadmap', 'b75'),
+    component: ComponentCreator('/tags/roadmap', '93e'),
     exact: true
   },
   {
     path: '/tags/stack',
-    component: ComponentCreator('/tags/stack', 'bf2'),
+    component: ComponentCreator('/tags/stack', '02b'),
     exact: true
   },
   {
     path: '/tags/string',
-    component: ComponentCreator('/tags/string', '5aa'),
+    component: ComponentCreator('/tags/string', 'b95'),
     exact: true
   },
   {
     path: '/',
-    component: ComponentCreator('/', 'c84'),
+    component: ComponentCreator('/', '36c'),
     exact: true
   },
   {
     path: '/',
-    component: ComponentCreator('/', 'af2'),
+    component: ComponentCreator('/', '114'),
     routes: [
       {
         path: '/algorithms/intro',
@@ -155,12 +155,6 @@ export default [
         component: ComponentCreator('/algorithms/monotonic-stack', '301'),
         exact: true,
         sidebar: "algorithms"
-      },
-      {
-        path: '/algorithms/Oops',
-        component: ComponentCreator('/algorithms/Oops', '11d'),
-        exact: true,
-        sidebar: "sidebar"
       },
       {
         path: '/algorithms/string-algorithms',
@@ -236,13 +230,13 @@ export default [
       },
       {
         path: '/standard-problems/Blind75',
-        component: ComponentCreator('/standard-problems/Blind75', 'e2a'),
+        component: ComponentCreator('/standard-problems/Blind75', 'ba2'),
         exact: true,
         sidebar: "sidebar"
       },
       {
         path: '/standard-problems/CSES ProblemSet',
-        component: ComponentCreator('/standard-problems/CSES ProblemSet', 'a41'),
+        component: ComponentCreator('/standard-problems/CSES ProblemSet', '168'),
         exact: true,
         sidebar: "sidebar"
       },

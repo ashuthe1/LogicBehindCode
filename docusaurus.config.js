@@ -85,7 +85,7 @@ const config = {
           },
           {
             type: 'doc',
-            docId: 'standard-problems/intro',
+            docId: 'standard-problems/Blind75',
             position: 'left',
             label: 'Standard Problems',
           },
@@ -101,7 +101,7 @@ const config = {
           },
           {
             href: 'https://ashutoshgautam.dev',
-            label: 'Website',
+            label: 'Portfolio',
             position: 'right',
           },
         ],
