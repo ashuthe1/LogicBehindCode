@@ -4,7 +4,7 @@
  * Modify the docusaurus.config.js file at your site's root instead.
  */
 export default {
-  "title": "Ashutosh Blogs </>",
+  "title": "LogicBehindCode</>",
   "tagline": "Summarising my Coding Journey",
   "url": "https://ashutoshgautam.dev",
   "baseUrl": "/",
@@ -52,9 +52,9 @@ export default {
   ],
   "themeConfig": {
     "navbar": {
-      "title": "Ashutosh Blogs </>",
+      "title": "LogicBehindCode</>",
       "logo": {
-        "alt": "My Site Logo",
+        "alt": "LogicBehindCode Logo",
         "src": "https://ashutoshgautam.dev/static/media/pf3.90874d7910affe4198b6.png"
       },
       "items": [
@@ -134,6 +134,10 @@ export default {
         {
           "title": "More",
           "items": [
+            {
+              "label": "YouTube",
+              "href": "https://www.youtube.com/@LogicBehindCode"
+            },
             {
               "label": "PortFolio",
               "href": "https://ashutoshgautam.dev"
@@ -353,13 +357,6 @@ export default {
         }
       ]
     },
-    "mermaid": {
-      "theme": {
-        "dark": "dark",
-        "light": "default"
-      },
-      "options": {}
-    },
     "colorMode": {
       "defaultMode": "light",
       "disableSwitch": false,
@@ -376,6 +373,13 @@ export default {
     "tableOfContents": {
       "minHeadingLevel": 2,
       "maxHeadingLevel": 3
+    },
+    "mermaid": {
+      "theme": {
+        "dark": "dark",
+        "light": "default"
+      },
+      "options": {}
     }
   },
   "baseUrlIssueBanner": true,

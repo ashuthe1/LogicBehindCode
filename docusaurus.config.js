@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Ashutosh Blogs </>',
+  title: 'LogicBehindCode</>',
   tagline: 'Summarising my Coding Journey',
   url: 'https://ashutoshgautam.dev',
   baseUrl: '/',
@@ -65,9 +65,9 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'Ashutosh Blogs </>',
+        title: 'LogicBehindCode</>',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'LogicBehindCode Logo',
           src: 'https://ashutoshgautam.dev/static/media/pf3.90874d7910affe4198b6.png',
         },
         items: [
@@ -146,6 +146,10 @@ const config = {
           {
             title: 'More',
             items: [
+              {
+                label: 'YouTube',
+                href: 'https://www.youtube.com/@LogicBehindCode',
+              },
               {
                 label: 'PortFolio',
                 href: 'https://ashutoshgautam.dev',
