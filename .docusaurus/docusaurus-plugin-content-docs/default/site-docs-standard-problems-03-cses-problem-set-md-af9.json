@@ -20,5 +20,9 @@
   "previous": {
     "title": "intro",
     "permalink": "/standard-problems/intro"
+  },
+  "next": {
+    "title": "Web Development",
+    "permalink": "/category/web-development"
   }
 }

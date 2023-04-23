@@ -93,7 +93,12 @@
             {
               "id": "standard-problems/intro",
               "path": "/standard-problems/intro",
-              "sidebar": "StandardProblems"
+              "sidebar": "standardProblems"
+            },
+            {
+              "id": "web-development/intro",
+              "path": "/web-development/intro",
+              "sidebar": "webDevelopment"
             },
             {
               "id": "/category/data-structures",
@@ -108,6 +113,11 @@
             {
               "id": "/category/standard-problems",
               "path": "/category/standard-problems",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "/category/web-development",
+              "path": "/category/web-development",
               "sidebar": "sidebar"
             }
           ],
@@ -125,10 +135,16 @@
                 "label": "algorithms/intro"
               }
             },
-            "StandardProblems": {
+            "standardProblems": {
               "link": {
                 "path": "/standard-problems/Blind75",
                 "label": "standard-problems/Blind75"
+              }
+            },
+            "webDevelopment": {
+              "link": {
+                "path": "/web-development/intro",
+                "label": "web-development/intro"
               }
             },
             "sidebar": {

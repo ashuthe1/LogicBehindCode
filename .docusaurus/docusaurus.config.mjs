@@ -33,7 +33,7 @@ export default {
       "classic",
       {
         "docs": {
-          "sidebarPath": "/home/ashuthe1/projects/personal/AshutoshBlogs/sidebars.js",
+          "sidebarPath": "/home/ashuthe1/projects/personal/LogicBehindCode Blogs/sidebars.js",
           "editUrl": "https://github.com/ashuthe1/blog/tree/main/",
           "routeBasePath": "/",
           "showLastUpdateTime": true,
@@ -45,7 +45,7 @@ export default {
           "editUrl": "https://github.com/ashuthe1/blog/tree/main/"
         },
         "theme": {
-          "customCss": "/home/ashuthe1/projects/personal/AshutoshBlogs/src/css/custom.css"
+          "customCss": "/home/ashuthe1/projects/personal/LogicBehindCode Blogs/src/css/custom.css"
         }
       }
     ]
@@ -75,6 +75,12 @@ export default {
           "docId": "standard-problems/Blind75",
           "position": "left",
           "label": "Standard Problems"
+        },
+        {
+          "type": "doc",
+          "docId": "web-development/intro",
+          "position": "left",
+          "label": "Web Development"
         },
         {
           "href": "https://github.com/ashuthe1",

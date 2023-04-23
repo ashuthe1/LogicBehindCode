@@ -17,9 +17,9 @@
   "sidebarPosition": 3,
   "frontMatter": {
     "sidebar_position": 3,
-    "displayed_sidebar": "StandardProblems"
+    "displayed_sidebar": "standardProblems"
   },
-  "sidebar": "StandardProblems",
+  "sidebar": "standardProblems",
   "previous": {
     "title": "Blind75",
     "permalink": "/standard-problems/Blind75"

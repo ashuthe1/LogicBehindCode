@@ -1,0 +1,23 @@
+{
+  "unversionedId": "web-development/intro",
+  "id": "web-development/intro",
+  "title": "intro",
+  "description": "Here Web Dev",
+  "source": "@site/docs/web-development/01_intro.mdx",
+  "sourceDirName": "web-development",
+  "slug": "/web-development/intro",
+  "permalink": "/web-development/intro",
+  "draft": false,
+  "editUrl": "https://github.com/ashuthe1/blog/tree/main/docs/web-development/01_intro.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4,
+    "displayed_sidebar": "webDevelopment"
+  },
+  "sidebar": "webDevelopment"
+}

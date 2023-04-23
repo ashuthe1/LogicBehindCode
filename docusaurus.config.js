@@ -90,6 +90,12 @@ const config = {
             label: 'Standard Problems',
           },
           {
+            type: 'doc',
+            docId: 'web-development/intro',
+            position: 'left',
+            label: 'Web Development',
+          },
+          {
             href: 'https://github.com/ashuthe1',
             label: 'GitHub',
             position: 'right',

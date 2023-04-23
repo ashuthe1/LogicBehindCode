@@ -15,9 +15,9 @@
           "editUrlLocalized": "https://github.com/ashuthe1/blog/tree/main/i18n/en/docusaurus-plugin-content-docs/current",
           "isLast": true,
           "routePriority": -1,
-          "sidebarFilePath": "/home/ashuthe1/projects/personal/AshutoshBlogs/sidebars.js",
-          "contentPath": "/home/ashuthe1/projects/personal/AshutoshBlogs/docs",
-          "contentPathLocalized": "/home/ashuthe1/projects/personal/AshutoshBlogs/i18n/en/docusaurus-plugin-content-docs/current",
+          "sidebarFilePath": "/home/ashuthe1/projects/personal/LogicBehindCode Blogs/sidebars.js",
+          "contentPath": "/home/ashuthe1/projects/personal/LogicBehindCode Blogs/docs",
+          "contentPathLocalized": "/home/ashuthe1/projects/personal/LogicBehindCode Blogs/i18n/en/docusaurus-plugin-content-docs/current",
           "docs": [
             {
               "unversionedId": "algorithms/intro",
@@ -521,6 +521,10 @@
               "previous": {
                 "title": "intro",
                 "permalink": "/standard-problems/intro"
+              },
+              "next": {
+                "title": "Web Development",
+                "permalink": "/category/web-development"
               }
             },
             {
@@ -542,9 +546,9 @@
               "sidebarPosition": 3,
               "frontMatter": {
                 "sidebar_position": 3,
-                "displayed_sidebar": "StandardProblems"
+                "displayed_sidebar": "standardProblems"
               },
-              "sidebar": "StandardProblems",
+              "sidebar": "standardProblems",
               "previous": {
                 "title": "Blind75",
                 "permalink": "/standard-problems/Blind75"
@@ -553,6 +557,29 @@
                 "title": "CSES Problem Set",
                 "permalink": "/standard-problems/CSES ProblemSet"
               }
+            },
+            {
+              "unversionedId": "web-development/intro",
+              "id": "web-development/intro",
+              "title": "intro",
+              "description": "Here Web Dev",
+              "source": "@site/docs/web-development/01_intro.mdx",
+              "sourceDirName": "web-development",
+              "slug": "/web-development/intro",
+              "permalink": "/web-development/intro",
+              "draft": false,
+              "editUrl": "https://github.com/ashuthe1/blog/tree/main/docs/web-development/01_intro.mdx",
+              "tags": [],
+              "version": "current",
+              "lastUpdatedBy": "Author",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "Oct 14, 2018",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4,
+                "displayed_sidebar": "webDevelopment"
+              },
+              "sidebar": "webDevelopment"
             }
           ],
           "drafts": [],
@@ -650,7 +677,7 @@
                 "id": "algorithms/string-algorithms"
               }
             ],
-            "StandardProblems": [
+            "standardProblems": [
               {
                 "type": "doc",
                 "id": "standard-problems/Blind75"
@@ -662,6 +689,12 @@
               {
                 "type": "doc",
                 "id": "standard-problems/CSES ProblemSet"
+              }
+            ],
+            "webDevelopment": [
+              {
+                "type": "doc",
+                "id": "web-development/intro"
               }
             ],
             "sidebar": [
@@ -807,6 +840,24 @@
                   "slug": "/category/standard-problems",
                   "permalink": "/category/standard-problems"
                 }
+              },
+              {
+                "type": "category",
+                "label": "Web Development",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "web-development/intro"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "description": "Important patternt to master interviews!",
+                  "slug": "/category/web-development",
+                  "permalink": "/category/web-development"
+                }
               }
             ]
           }
@@ -858,14 +909,14 @@
                 "title": "4 🌟 CodeChef🔸Specialist @CodeForces 🔸Problem Setter at iMochaWorks",
                 "url": "https://www.linkedin.com/in/ashuthe1/",
                 "imageURL": "https://avatars.githubusercontent.com/u/86846633?v=4",
-                "key": "ashuthe1"
+                "key": "Ashutosh Gautam"
               }
             ],
             "frontMatter": {
               "slug": "cp-roadmap-for-beginners-and-people-below-specialist",
               "title": "Cp Roadmap for beginners and People below Specialist",
               "authors": [
-                "ashuthe1"
+                "Ashutosh Gautam"
               ],
               "tags": [
                 "CP",
@@ -922,13 +973,13 @@
                 "title": "4 🌟 CodeChef🔸Specialist @CodeForces 🔸Problem Setter at iMochaWorks",
                 "url": "https://www.linkedin.com/in/ashuthe1/",
                 "imageURL": "https://avatars.githubusercontent.com/u/86846633?v=4",
-                "key": "ashuthe1"
+                "key": "Ashutosh Gautam"
               }
             ],
             "frontMatter": {
               "slug": "leetcode/implement-queue-using-stacks",
               "title": "232. Implement Queue using Stacks",
-              "authors": "ashuthe1",
+              "authors": "Ashutosh Gautam",
               "tags": [
                 "LeetCode",
                 "Leetcode Daily",
@@ -988,13 +1039,13 @@
                 "title": "4 🌟 CodeChef🔸Specialist @CodeForces 🔸Problem Setter at iMochaWorks",
                 "url": "https://www.linkedin.com/in/ashuthe1/",
                 "imageURL": "https://avatars.githubusercontent.com/u/86846633?v=4",
-                "key": "ashuthe1"
+                "key": "Ashutosh Gautam"
               }
             ],
             "frontMatter": {
               "slug": "leetcode/longest-common-subsequence",
               "title": "Longest Common Subsequence, LeetCode",
-              "authors": "ashuthe1",
+              "authors": "Ashutosh Gautam",
               "tags": [
                 "LeetCode",
                 "Leetcode Daily",

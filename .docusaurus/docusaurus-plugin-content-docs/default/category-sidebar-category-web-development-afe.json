@@ -1,0 +1,16 @@
+{
+  "title": "Web Development",
+  "description": "Important patternt to master interviews!",
+  "slug": "/category/web-development",
+  "permalink": "/category/web-development",
+  "navigation": {
+    "previous": {
+      "title": "CSES Problem Set",
+      "permalink": "/standard-problems/CSES ProblemSet"
+    },
+    "next": {
+      "title": "intro",
+      "permalink": "/web-development/intro"
+    }
+  }
+}

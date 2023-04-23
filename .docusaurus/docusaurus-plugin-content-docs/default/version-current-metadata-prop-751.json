@@ -108,7 +108,7 @@
         "docId": "algorithms/string-algorithms"
       }
     ],
-    "StandardProblems": [
+    "standardProblems": [
       {
         "type": "link",
         "label": "Blind75",
@@ -126,6 +126,14 @@
         "label": "CSES Problem Set",
         "href": "/standard-problems/CSES ProblemSet",
         "docId": "standard-problems/CSES ProblemSet"
+      }
+    ],
+    "webDevelopment": [
+      {
+        "type": "link",
+        "label": "intro",
+        "href": "/web-development/intro",
+        "docId": "web-development/intro"
       }
     ],
     "sidebar": [
@@ -269,6 +277,21 @@
           }
         ],
         "href": "/category/standard-problems"
+      },
+      {
+        "type": "category",
+        "label": "Web Development",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "intro",
+            "href": "/web-development/intro",
+            "docId": "web-development/intro"
+          }
+        ],
+        "href": "/category/web-development"
       }
     ]
   },
@@ -373,7 +396,13 @@
       "id": "standard-problems/intro",
       "title": "intro",
       "description": "SDE Sheet contains very handily crafted and picked top coding interview questions from different topics of Data Structures & Algorithms. These questions are one of the most asked coding interview questions in coding interviews of companies like Amazon, Microsoft, Media.net, Flipkart, etc, and cover almost all of the concepts related to Data Structure & Algorithms",
-      "sidebar": "StandardProblems"
+      "sidebar": "standardProblems"
+    },
+    "web-development/intro": {
+      "id": "web-development/intro",
+      "title": "intro",
+      "description": "Here Web Dev",
+      "sidebar": "webDevelopment"
     }
   }
 }
