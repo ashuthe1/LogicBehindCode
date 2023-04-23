@@ -91,18 +91,8 @@
               "sidebar": "sidebar"
             },
             {
-              "id": "standard-problems/intro",
-              "path": "/standard-problems/intro",
-              "sidebar": "standardProblems"
-            },
-            {
-              "id": "web-development/intro",
-              "path": "/web-development/intro",
-              "sidebar": "webDevelopment"
-            },
-            {
-              "id": "web-development/JavaScript/all-4-javascript-scopes-explained",
-              "path": "/web-development/JavaScript/all-4-javascript-scopes-explained",
+              "id": "web-development/JavaScript/javascript-scopes",
+              "path": "/web-development/JavaScript/javascript-scopes",
               "sidebar": "webDevelopment"
             },
             {
@@ -112,7 +102,7 @@
             },
             {
               "id": "web-development/mongodb",
-              "path": "/web-development/mongodb",
+              "path": "/web-development/mongodb-tutorial",
               "sidebar": "sidebar"
             },
             {
@@ -158,7 +148,7 @@
             },
             "webDevelopment": {
               "link": {
-                "path": "/web-development/mongodb",
+                "path": "/web-development/mongodb-tutorial",
                 "label": "web-development/mongodb"
               }
             },

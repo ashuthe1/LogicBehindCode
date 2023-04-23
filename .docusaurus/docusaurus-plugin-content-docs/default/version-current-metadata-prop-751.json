@@ -117,12 +117,6 @@
       },
       {
         "type": "link",
-        "label": "intro",
-        "href": "/standard-problems/intro",
-        "docId": "standard-problems/intro"
-      },
-      {
-        "type": "link",
         "label": "CSES Problem Set",
         "href": "/standard-problems/CSES ProblemSet",
         "docId": "standard-problems/CSES ProblemSet"
@@ -131,15 +125,9 @@
     "webDevelopment": [
       {
         "type": "link",
-        "label": "MongoDB Ultimate Guide",
-        "href": "/web-development/mongodb",
+        "label": "MongoDB Tutorial",
+        "href": "/web-development/mongodb-tutorial",
         "docId": "web-development/mongodb"
-      },
-      {
-        "type": "link",
-        "label": "Introduction to Web Dev",
-        "href": "/web-development/intro",
-        "docId": "web-development/intro"
       },
       {
         "type": "category",
@@ -155,9 +143,9 @@
           },
           {
             "type": "link",
-            "label": "All 4 JavaScript Scopes Explained",
-            "href": "/web-development/JavaScript/all-4-javascript-scopes-explained",
-            "docId": "web-development/JavaScript/all-4-javascript-scopes-explained"
+            "label": "JavaScript Scopes",
+            "href": "/web-development/JavaScript/javascript-scopes",
+            "docId": "web-development/JavaScript/javascript-scopes"
           }
         ]
       }
@@ -291,12 +279,6 @@
           },
           {
             "type": "link",
-            "label": "intro",
-            "href": "/standard-problems/intro",
-            "docId": "standard-problems/intro"
-          },
-          {
-            "type": "link",
             "label": "CSES Problem Set",
             "href": "/standard-problems/CSES ProblemSet",
             "docId": "standard-problems/CSES ProblemSet"
@@ -312,15 +294,9 @@
         "items": [
           {
             "type": "link",
-            "label": "MongoDB Ultimate Guide",
-            "href": "/web-development/mongodb",
+            "label": "MongoDB Tutorial",
+            "href": "/web-development/mongodb-tutorial",
             "docId": "web-development/mongodb"
-          },
-          {
-            "type": "link",
-            "label": "Introduction to Web Dev",
-            "href": "/web-development/intro",
-            "docId": "web-development/intro"
           },
           {
             "type": "category",
@@ -336,9 +312,9 @@
               },
               {
                 "type": "link",
-                "label": "All 4 JavaScript Scopes Explained",
-                "href": "/web-development/JavaScript/all-4-javascript-scopes-explained",
-                "docId": "web-development/JavaScript/all-4-javascript-scopes-explained"
+                "label": "JavaScript Scopes",
+                "href": "/web-development/JavaScript/javascript-scopes",
+                "docId": "web-development/JavaScript/javascript-scopes"
               }
             ]
           }
@@ -444,21 +420,9 @@
       "description": "This document contains a numbered list of all the problems from the",
       "sidebar": "sidebar"
     },
-    "standard-problems/intro": {
-      "id": "standard-problems/intro",
-      "title": "intro",
-      "description": "SDE Sheet contains very handily crafted and picked top coding interview questions from different topics of Data Structures & Algorithms. These questions are one of the most asked coding interview questions in coding interviews of companies like Amazon, Microsoft, Media.net, Flipkart, etc, and cover almost all of the concepts related to Data Structure & Algorithms",
-      "sidebar": "standardProblems"
-    },
-    "web-development/intro": {
-      "id": "web-development/intro",
-      "title": "Introduction to Web Dev",
-      "description": "",
-      "sidebar": "webDevelopment"
-    },
-    "web-development/JavaScript/all-4-javascript-scopes-explained": {
-      "id": "web-development/JavaScript/all-4-javascript-scopes-explained",
-      "title": "All 4 JavaScript Scopes Explained",
+    "web-development/JavaScript/javascript-scopes": {
+      "id": "web-development/JavaScript/javascript-scopes",
+      "title": "JavaScript Scopes",
       "description": "If you have written even a single line of JavaScript code then you have used one of the four scopes of JavaScript without even realizing it.",
       "sidebar": "webDevelopment"
     },
@@ -470,7 +434,7 @@
     },
     "web-development/mongodb": {
       "id": "web-development/mongodb",
-      "title": "MongoDB Ultimate Guide",
+      "title": "MongoDB Tutorial",
       "description": "MongoDB is a NoSQL document based database. Essentially, all the data in MongoDB is stored in JSON documents that are sorted into a variety of collections based on the type of data. It is one of the most popular NoSQL database options due to its relative ease of use and power. In this article I will be covering a ton of concepts and functions in MongoDB which touch on all the important aspects of MongoDB.",
       "sidebar": "sidebar"
     }

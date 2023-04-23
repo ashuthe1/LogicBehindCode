@@ -41,7 +41,7 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          editUrl: 'https://github.com/ashuthe1/blog/tree/main/',
+          editUrl: 'https://github.com/ashuthe1/LogicBehindCode/tree/main/',
           routeBasePath: '/',
           showLastUpdateTime: true,
           showLastUpdateAuthor: true,
@@ -52,7 +52,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/ashuthe1/blog/tree/main/',
+            'https://github.com/ashuthe1/LogicBehindCode/tree/main/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -91,7 +91,7 @@ const config = {
           },
           {
             type: 'doc',
-            docId: 'web-development/intro',
+            docId: 'web-development/mongodb',
             position: 'left',
             label: 'Web Development',
           },

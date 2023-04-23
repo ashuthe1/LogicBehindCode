@@ -1,0 +1,14 @@
+{
+  "label": "Database",
+  "permalink": "/tags/database",
+  "allTagsPath": "/tags",
+  "count": 1,
+  "items": [
+    {
+      "id": "web-development/mongodb",
+      "title": "MongoDB Tutorial",
+      "description": "MongoDB is a NoSQL document based database. Essentially, all the data in MongoDB is stored in JSON documents that are sorted into a variety of collections based on the type of data. It is one of the most popular NoSQL database options due to its relative ease of use and power. In this article I will be covering a ton of concepts and functions in MongoDB which touch on all the important aspects of MongoDB.",
+      "permalink": "/web-development/mongodb-tutorial"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "unversionedId": "web-development/intro",
+  "id": "web-development/intro",
+  "title": "Introduction to Web Dev",
+  "description": "",
+  "source": "@site/docs/web-development/01_intro.md",
+  "sourceDirName": "web-development",
+  "slug": "/web-development/intro",
+  "permalink": "/web-development/intro",
+  "draft": false,
+  "editUrl": "https://github.com/ashuthe1/LogicBehindCode/tree/main/docs/web-development/01_intro.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4,
+    "displayed_sidebar": "webDevelopment"
+  },
+  "sidebar": "webDevelopment",
+  "previous": {
+    "title": "MongoDB Ultimate Guide",
+    "permalink": "/web-development/mongodb"
+  },
+  "next": {
+    "title": "JavaScript Promises",
+    "permalink": "/web-development/JavaScript/promise"
+  }
+}

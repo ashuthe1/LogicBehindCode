@@ -8,7 +8,7 @@
   "slug": "/web-development/mongodb",
   "permalink": "/web-development/mongodb",
   "draft": false,
-  "editUrl": "https://github.com/ashuthe1/blog/tree/main/docs/web-development/02_mongodb.md",
+  "editUrl": "https://github.com/ashuthe1/LogicBehindCode/tree/main/docs/web-development/02_mongodb.md",
   "tags": [],
   "version": "current",
   "lastUpdatedBy": "Author",
@@ -22,7 +22,7 @@
     "permalink": "/category/web-development"
   },
   "next": {
-    "title": "Introduction to Web Dev",
-    "permalink": "/web-development/intro"
+    "title": "JavaScript Promises",
+    "permalink": "/web-development/JavaScript/promise"
   }
 }

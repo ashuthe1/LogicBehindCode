@@ -58,8 +58,28 @@ export default [
     exact: true
   },
   {
+    path: '/mongodb-tutorial',
+    component: ComponentCreator('/mongodb-tutorial', 'c04'),
+    exact: true
+  },
+  {
+    path: '/tags',
+    component: ComponentCreator('/tags', '9d8'),
+    exact: true
+  },
+  {
     path: '/tags',
     component: ComponentCreator('/tags', '121'),
+    exact: true
+  },
+  {
+    path: '/tags/back-end',
+    component: ComponentCreator('/tags/back-end', '8dc'),
+    exact: true
+  },
+  {
+    path: '/tags/back-end',
+    component: ComponentCreator('/tags/back-end', '9db'),
     exact: true
   },
   {
@@ -75,6 +95,16 @@ export default [
   {
     path: '/tags/cp',
     component: ComponentCreator('/tags/cp', 'd8d'),
+    exact: true
+  },
+  {
+    path: '/tags/database',
+    component: ComponentCreator('/tags/database', 'f50'),
+    exact: true
+  },
+  {
+    path: '/tags/database',
+    component: ComponentCreator('/tags/database', '7ec'),
     exact: true
   },
   {
@@ -95,6 +125,16 @@ export default [
   {
     path: '/tags/leetcode-daily',
     component: ComponentCreator('/tags/leetcode-daily', 'cda'),
+    exact: true
+  },
+  {
+    path: '/tags/mongo-db',
+    component: ComponentCreator('/tags/mongo-db', '8c9'),
+    exact: true
+  },
+  {
+    path: '/tags/mongo-db',
+    component: ComponentCreator('/tags/mongo-db', '208'),
     exact: true
   },
   {
@@ -119,12 +159,12 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/', '238'),
+    component: ComponentCreator('/', '71e'),
     exact: true
   },
   {
     path: '/',
-    component: ComponentCreator('/', 'da4'),
+    component: ComponentCreator('/', '112'),
     routes: [
       {
         path: '/algorithms/intro',
@@ -236,31 +276,19 @@ export default [
       },
       {
         path: '/standard-problems/Blind75',
-        component: ComponentCreator('/standard-problems/Blind75', 'ba2'),
+        component: ComponentCreator('/standard-problems/Blind75', 'e2a'),
         exact: true,
         sidebar: "sidebar"
       },
       {
         path: '/standard-problems/CSES ProblemSet',
-        component: ComponentCreator('/standard-problems/CSES ProblemSet', '168'),
+        component: ComponentCreator('/standard-problems/CSES ProblemSet', 'a41'),
         exact: true,
         sidebar: "sidebar"
       },
       {
-        path: '/standard-problems/intro',
-        component: ComponentCreator('/standard-problems/intro', 'bca'),
-        exact: true,
-        sidebar: "standardProblems"
-      },
-      {
-        path: '/web-development/intro',
-        component: ComponentCreator('/web-development/intro', '7b0'),
-        exact: true,
-        sidebar: "webDevelopment"
-      },
-      {
-        path: '/web-development/JavaScript/all-4-javascript-scopes-explained',
-        component: ComponentCreator('/web-development/JavaScript/all-4-javascript-scopes-explained', '88f'),
+        path: '/web-development/JavaScript/javascript-scopes',
+        component: ComponentCreator('/web-development/JavaScript/javascript-scopes', '2ec'),
         exact: true,
         sidebar: "webDevelopment"
       },
@@ -271,8 +299,8 @@ export default [
         sidebar: "webDevelopment"
       },
       {
-        path: '/web-development/mongodb',
-        component: ComponentCreator('/web-development/mongodb', '14c'),
+        path: '/web-development/mongodb-tutorial',
+        component: ComponentCreator('/web-development/mongodb-tutorial', '7d3'),
         exact: true,
         sidebar: "sidebar"
       }

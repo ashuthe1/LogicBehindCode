@@ -1,0 +1,52 @@
+{
+  "permalink": "/mongodb-tutorial",
+  "editUrl": "https://github.com/ashuthe1/LogicBehindCode/tree/main/blog/2023-04-15-mongodb-tutorial.mdx",
+  "source": "@site/blog/2023-04-15-mongodb-tutorial.mdx",
+  "title": "MongoDB Tutorial",
+  "description": "MongoDB is a NoSQL document based database. Essentially, all the data in MongoDB is stored in JSON documents that are sorted into a variety of collections based on the type of data. It is one of the most popular NoSQL database options due to its relative ease of use and power. In this article I will be covering a ton of concepts and functions in MongoDB which touch on all the important aspects of MongoDB.",
+  "date": "2023-04-15T00:00:00.000Z",
+  "formattedDate": "April 15, 2023",
+  "tags": [
+    {
+      "label": "MongoDB",
+      "permalink": "/tags/mongo-db"
+    },
+    {
+      "label": "Database",
+      "permalink": "/tags/database"
+    },
+    {
+      "label": "BackEnd",
+      "permalink": "/tags/back-end"
+    }
+  ],
+  "readingTime": 14.425,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Ashutosh Gautam",
+      "title": "4 🌟 CodeChef🔸Specialist @CodeForces 🔸Problem Setter at iMochaWorks",
+      "url": "https://www.linkedin.com/in/ashuthe1/",
+      "imageURL": "https://avatars.githubusercontent.com/u/86846633?v=4",
+      "key": "Ashutosh"
+    }
+  ],
+  "frontMatter": {
+    "slug": "mongodb-tutorial",
+    "title": "MongoDB Tutorial",
+    "authors": "Ashutosh",
+    "tags": [
+      "MongoDB",
+      "Database",
+      "BackEnd"
+    ]
+  },
+  "prevItem": {
+    "title": "Cp Roadmap for beginners and People below Specialist",
+    "permalink": "/cp-roadmap-for-beginners-and-people-below-specialist"
+  },
+  "nextItem": {
+    "title": "232. Implement Queue using Stacks",
+    "permalink": "/leetcode/implement-queue-using-stacks"
+  }
+}

@@ -34,7 +34,7 @@ export default {
       {
         "docs": {
           "sidebarPath": "/home/ashuthe1/projects/personal/LogicBehindCode Blogs/sidebars.js",
-          "editUrl": "https://github.com/ashuthe1/blog/tree/main/",
+          "editUrl": "https://github.com/ashuthe1/LogicBehindCode/tree/main/",
           "routeBasePath": "/",
           "showLastUpdateTime": true,
           "showLastUpdateAuthor": true
@@ -42,7 +42,7 @@ export default {
         "blog": {
           "showReadingTime": true,
           "routeBasePath": "/",
-          "editUrl": "https://github.com/ashuthe1/blog/tree/main/"
+          "editUrl": "https://github.com/ashuthe1/LogicBehindCode/tree/main/"
         },
         "theme": {
           "customCss": "/home/ashuthe1/projects/personal/LogicBehindCode Blogs/src/css/custom.css"
@@ -78,7 +78,7 @@ export default {
         },
         {
           "type": "doc",
-          "docId": "web-development/intro",
+          "docId": "web-development/mongodb",
           "position": "left",
           "label": "Web Development"
         },
@@ -363,6 +363,13 @@ export default {
         }
       ]
     },
+    "mermaid": {
+      "theme": {
+        "dark": "dark",
+        "light": "default"
+      },
+      "options": {}
+    },
     "colorMode": {
       "defaultMode": "light",
       "disableSwitch": false,
@@ -379,13 +386,6 @@ export default {
     "tableOfContents": {
       "minHeadingLevel": 2,
       "maxHeadingLevel": 3
-    },
-    "mermaid": {
-      "theme": {
-        "dark": "dark",
-        "light": "default"
-      },
-      "options": {}
     }
   },
   "baseUrlIssueBanner": true,

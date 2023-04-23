@@ -73,6 +73,21 @@
     "sidebar": "sidebar---cp-roadmap-for-beginners-and-people-below-specialist-814-4ee",
     "content": "content---leetcode-longest-common-subsequence-4-a-6-a9b"
   },
+  "/mongodb-tutorial-c04": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "plugin": "plugin---archiveabc-595"
+    },
+    "sidebar": "sidebar---cp-roadmap-for-beginners-and-people-below-specialist-814-4ee",
+    "content": "content---mongodb-tutorial-9-bd-53c"
+  },
+  "/tags-9d8": {
+    "__comp": "__comp---theme-doc-tags-list-page-372-89e",
+    "__context": {
+      "plugin": "plugin---3-ca-37d"
+    },
+    "tags": "tags---tags-559-690"
+  },
   "/tags-121": {
     "__comp": "__comp---theme-blog-tags-list-page-01-a-d0b",
     "__context": {
@@ -80,6 +95,27 @@
     },
     "sidebar": "sidebar---cp-roadmap-for-beginners-and-people-below-specialist-814-4ee",
     "tags": "tags---tagsc-57-e72"
+  },
+  "/tags/back-end-8dc": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__context": {
+      "plugin": "plugin---3-ca-37d"
+    },
+    "tag": "tag---tags-back-ende-10-ddb"
+  },
+  "/tags/back-end-9db": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---archiveabc-595"
+    },
+    "sidebar": "sidebar---cp-roadmap-for-beginners-and-people-below-specialist-814-4ee",
+    "items": [
+      {
+        "content": "content---tags-back-end-1-a-6-f03"
+      }
+    ],
+    "tag": "tag---tags-back-end-4-a-4-d07",
+    "listMetadata": "listMetadata---tags-back-end-6-fd-992"
   },
   "/tags/code-chef-df9": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
@@ -122,6 +158,27 @@
     ],
     "tag": "tag---tags-cp-71-b-9bc",
     "listMetadata": "listMetadata---tags-cp-37-a-10d"
+  },
+  "/tags/database-f50": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__context": {
+      "plugin": "plugin---3-ca-37d"
+    },
+    "tag": "tag---tags-database-3-d-9-c4f"
+  },
+  "/tags/database-7ec": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---archiveabc-595"
+    },
+    "sidebar": "sidebar---cp-roadmap-for-beginners-and-people-below-specialist-814-4ee",
+    "items": [
+      {
+        "content": "content---tags-back-end-1-a-6-f03"
+      }
+    ],
+    "tag": "tag---tags-databasebbd-f97",
+    "listMetadata": "listMetadata---tags-database-52-d-e26"
   },
   "/tags/dsa-a31": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
@@ -191,6 +248,27 @@
     "tag": "tag---tags-leetcode-daily-3-a-6-3e5",
     "listMetadata": "listMetadata---tags-leetcode-daily-941-bed"
   },
+  "/tags/mongo-db-8c9": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__context": {
+      "plugin": "plugin---3-ca-37d"
+    },
+    "tag": "tag---tags-mongo-db-3-cc-386"
+  },
+  "/tags/mongo-db-208": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---archiveabc-595"
+    },
+    "sidebar": "sidebar---cp-roadmap-for-beginners-and-people-below-specialist-814-4ee",
+    "items": [
+      {
+        "content": "content---tags-back-end-1-a-6-f03"
+      }
+    ],
+    "tag": "tag---tags-mongo-db-6-ad-cc5",
+    "listMetadata": "listMetadata---tags-mongo-dba-9-d-818"
+  },
   "/tags/queue-355": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
@@ -247,13 +325,16 @@
     "tag": "tag---tags-string-66-b-c19",
     "listMetadata": "listMetadata---tags-string-196-b87"
   },
-  "/-238": {
+  "/-71e": {
     "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
     "__context": {
       "plugin": "plugin---archiveabc-595"
     },
     "sidebar": "sidebar---cp-roadmap-for-beginners-and-people-below-specialist-814-4ee",
     "items": [
+      {
+        "content": "content---tags-back-end-1-a-6-f03"
+      },
       {
         "content": "content---tags-code-chefed-1-35f"
       },
@@ -266,7 +347,7 @@
     ],
     "metadata": "metadata---a-55-c63"
   },
-  "/-da4": {
+  "/-112": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
       "plugin": "plugin---3-ca-37d"
@@ -345,32 +426,24 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---data-structures-tree-root-shifting-9-e-3-67f"
   },
-  "/standard-problems/Blind75-ba2": {
+  "/standard-problems/Blind75-e2a": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---standard-problems-blind-7567-c-0b7"
+    "content": "content---standard-problems-blind-75958-d61"
   },
-  "/standard-problems/CSES ProblemSet-168": {
+  "/standard-problems/CSES ProblemSet-a41": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---standard-problems-cses-problem-setaf-9-a15"
+    "content": "content---standard-problems-cses-problem-setc-96-a23"
   },
-  "/standard-problems/intro-bca": {
+  "/web-development/JavaScript/javascript-scopes-2ec": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---standard-problems-intro-46-b-693"
-  },
-  "/web-development/intro-7b0": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---web-development-intro-4-a-4-de7"
-  },
-  "/web-development/JavaScript/all-4-javascript-scopes-explained-88f": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---web-development-java-script-all-4-javascript-scopes-explained-55-e-2a5"
+    "content": "content---web-development-java-script-javascript-scopes-7-c-5-bea"
   },
   "/web-development/JavaScript/promise-ac4": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---web-development-java-script-promise-75-a-405"
   },
-  "/web-development/mongodb-14c": {
+  "/web-development/mongodb-tutorial-7d3": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---web-development-mongodbe-70-452"
+    "content": "content---web-development-mongodbfb-0-62f"
   }
 }

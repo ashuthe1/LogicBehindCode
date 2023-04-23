@@ -1,6 +1,6 @@
 {
   "title": "Web Development",
-  "description": "Important patternt to master interviews!",
+  "description": "All important concepts of Web Development",
   "slug": "/category/web-development",
   "permalink": "/category/web-development",
   "navigation": {
@@ -9,8 +9,8 @@
       "permalink": "/standard-problems/CSES ProblemSet"
     },
     "next": {
-      "title": "MongoDB Ultimate Guide",
-      "permalink": "/web-development/mongodb"
+      "title": "MongoDB Tutorial",
+      "permalink": "/web-development/mongodb-tutorial"
     }
   }
 }

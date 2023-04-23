@@ -1,6 +1,6 @@
 {
   "permalink": "/cp-roadmap-for-beginners-and-people-below-specialist",
-  "editUrl": "https://github.com/ashuthe1/blog/tree/main/blog/2023-04-17-cp-roadmap-for-beginners-and-people-below-specialist.mdx",
+  "editUrl": "https://github.com/ashuthe1/LogicBehindCode/tree/main/blog/2023-04-17-cp-roadmap-for-beginners-and-people-below-specialist.mdx",
   "source": "@site/blog/2023-04-17-cp-roadmap-for-beginners-and-people-below-specialist.mdx",
   "title": "Cp Roadmap for beginners and People below Specialist",
   "description": "I come across folks who seek guidance for progressing in cp and most of them are pupils / newbies,",
@@ -50,6 +50,10 @@
       "CodeChef",
       "CodeForces"
     ]
+  },
+  "prevItem": {
+    "title": "MongoDB Tutorial",
+    "permalink": "/mongodb-tutorial"
   },
   "nextItem": {
     "title": "232. Implement Queue using Stacks",
