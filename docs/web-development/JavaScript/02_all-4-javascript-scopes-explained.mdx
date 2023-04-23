@@ -1,0 +1,48 @@
+---
+title: All 4 JavaScript Scopes Explained
+displayed_sidebar: webDevelopment
+authors: Ashutosh
+keywords:
+    - JavaScript
+---
+
+# All 4 JavaScript Scopes Explained
+
+If you have written even a single line of JavaScript code then you have used one of the four scopes of JavaScript without even realizing it. 
+These different scope levels determine how your code will run, how easy your code is to write/change, and many other factors about your code so knowing all the nuances of each different scope is crucial. 
+In this short article I will teach you what each scope level is, how they interact with your code, and what you can do with this knowledge to write better cleaner code.
+
+What Is Scope?
+The first question we need to tackle is what scope even is. In JavaScript, and pretty much every other programming language, your code runs within some set scope. This scope determines what variables your code has access to, how new variables will interact with the rest of your code, and a few other things. The best way to think of scope is as a partition to help you separate different parts of your code from one another.
+
+``` js
+const outer = "Out"
+
+function test() {
+  const inner = "In"
+  console.log(outer, inner)
+  // Prints: "Out", "In"
+}
+
+test()
+console.log(outer, inner)
+// Throws Uncaught Reference Error: inner is not defined
+```
+
+In the above example we have some simple code that defines a variable outside a function and inside a function. We then log both variables to the console from inside and outside the function. This works fine inside the function, but outside the function our log throws an error since we do not have access to the inner variable outside the scope fo the function.
+
+This example utilizes two of the four scopes in JavaScript to separate our code in a way that only certain parts of the code have access to certain variables. This is the main reason for different scope levels to exist, so let's cover those different scopes now.
+
+## Scope Levels
+The four different scope levels are:
+
+<ol>
+<li>Global Scope</li>
+<li>Module Scope</li>
+<li>Block Scope</li>
+<li>Function Scope</li>
+</ol>
+
+This may seem like a lot to keep track of but in reality you will probably use module and block scope for 95% of all the code you write, so it is a bit easier to keep track of. This doesn't mean you should ignore the other scopes, though, as it is important to understand how they work.
+
+## Global Scope

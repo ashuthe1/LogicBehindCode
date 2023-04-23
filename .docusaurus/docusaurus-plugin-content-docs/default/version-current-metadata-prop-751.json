@@ -131,9 +131,35 @@
     "webDevelopment": [
       {
         "type": "link",
-        "label": "intro",
+        "label": "MongoDB Ultimate Guide",
+        "href": "/web-development/mongodb",
+        "docId": "web-development/mongodb"
+      },
+      {
+        "type": "link",
+        "label": "Introduction to Web Dev",
         "href": "/web-development/intro",
         "docId": "web-development/intro"
+      },
+      {
+        "type": "category",
+        "label": "JavaScript",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "JavaScript Promises",
+            "href": "/web-development/JavaScript/promise",
+            "docId": "web-development/JavaScript/promise"
+          },
+          {
+            "type": "link",
+            "label": "All 4 JavaScript Scopes Explained",
+            "href": "/web-development/JavaScript/all-4-javascript-scopes-explained",
+            "docId": "web-development/JavaScript/all-4-javascript-scopes-explained"
+          }
+        ]
       }
     ],
     "sidebar": [
@@ -286,9 +312,35 @@
         "items": [
           {
             "type": "link",
-            "label": "intro",
+            "label": "MongoDB Ultimate Guide",
+            "href": "/web-development/mongodb",
+            "docId": "web-development/mongodb"
+          },
+          {
+            "type": "link",
+            "label": "Introduction to Web Dev",
             "href": "/web-development/intro",
             "docId": "web-development/intro"
+          },
+          {
+            "type": "category",
+            "label": "JavaScript",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "JavaScript Promises",
+                "href": "/web-development/JavaScript/promise",
+                "docId": "web-development/JavaScript/promise"
+              },
+              {
+                "type": "link",
+                "label": "All 4 JavaScript Scopes Explained",
+                "href": "/web-development/JavaScript/all-4-javascript-scopes-explained",
+                "docId": "web-development/JavaScript/all-4-javascript-scopes-explained"
+              }
+            ]
           }
         ],
         "href": "/category/web-development"
@@ -400,9 +452,27 @@
     },
     "web-development/intro": {
       "id": "web-development/intro",
-      "title": "intro",
-      "description": "Here Web Dev",
+      "title": "Introduction to Web Dev",
+      "description": "",
       "sidebar": "webDevelopment"
+    },
+    "web-development/JavaScript/all-4-javascript-scopes-explained": {
+      "id": "web-development/JavaScript/all-4-javascript-scopes-explained",
+      "title": "All 4 JavaScript Scopes Explained",
+      "description": "If you have written even a single line of JavaScript code then you have used one of the four scopes of JavaScript without even realizing it.",
+      "sidebar": "webDevelopment"
+    },
+    "web-development/JavaScript/promise": {
+      "id": "web-development/JavaScript/promise",
+      "title": "JavaScript Promises",
+      "description": "Promises in JavaScript look confusing at first but I promise you by the end of this article",
+      "sidebar": "webDevelopment"
+    },
+    "web-development/mongodb": {
+      "id": "web-development/mongodb",
+      "title": "MongoDB Ultimate Guide",
+      "description": "MongoDB is a NoSQL document based database. Essentially, all the data in MongoDB is stored in JSON documents that are sorted into a variety of collections based on the type of data. It is one of the most popular NoSQL database options due to its relative ease of use and power. In this article I will be covering a ton of concepts and functions in MongoDB which touch on all the important aspects of MongoDB.",
+      "sidebar": "sidebar"
     }
   }
 }

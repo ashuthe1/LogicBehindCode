@@ -266,7 +266,7 @@
     ],
     "metadata": "metadata---a-55-c63"
   },
-  "/-b02": {
+  "/-da4": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
       "plugin": "plugin---3-ca-37d"
@@ -360,5 +360,17 @@
   "/web-development/intro-7b0": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---web-development-intro-4-a-4-de7"
+  },
+  "/web-development/JavaScript/all-4-javascript-scopes-explained-88f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---web-development-java-script-all-4-javascript-scopes-explained-55-e-2a5"
+  },
+  "/web-development/JavaScript/promise-ac4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---web-development-java-script-promise-75-a-405"
+  },
+  "/web-development/mongodb-14c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---web-development-mongodbe-70-452"
   }
 }

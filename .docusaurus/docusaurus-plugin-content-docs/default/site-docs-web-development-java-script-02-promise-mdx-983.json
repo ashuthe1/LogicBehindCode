@@ -1,0 +1,32 @@
+{
+  "unversionedId": "web-development/javaScript/promise",
+  "id": "web-development/javaScript/promise",
+  "title": "JavaScript Promises",
+  "description": "",
+  "source": "@site/docs/web-development/javaScript/02_promise.mdx",
+  "sourceDirName": "web-development/javaScript",
+  "slug": "/web-development/javaScript/promise",
+  "permalink": "/web-development/javaScript/promise",
+  "draft": false,
+  "editUrl": "https://github.com/ashuthe1/blog/tree/main/docs/web-development/javaScript/02_promise.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "JavaScript Promises",
+    "displayed_sidebar": "webDevelopment",
+    "authors": "Ashutosh",
+    "keywords": [
+      "JavaScript",
+      "Promises"
+    ]
+  },
+  "sidebar": "webDevelopment",
+  "previous": {
+    "title": "All 4 JavaScript Scopes Explained",
+    "permalink": "/web-development/javaScript/all-4-javascript-scopes-explained"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "unversionedId": "web-development/JavaScript/promise",
+  "id": "web-development/JavaScript/promise",
+  "title": "JavaScript Promises",
+  "description": "Promises in JavaScript look confusing at first but I promise you by the end of this article",
+  "source": "@site/docs/web-development/JavaScript/01_promise.mdx",
+  "sourceDirName": "web-development/JavaScript",
+  "slug": "/web-development/JavaScript/promise",
+  "permalink": "/web-development/JavaScript/promise",
+  "draft": false,
+  "editUrl": "https://github.com/ashuthe1/blog/tree/main/docs/web-development/JavaScript/01_promise.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "JavaScript Promises",
+    "displayed_sidebar": "webDevelopment",
+    "authors": "Ashutosh",
+    "keywords": [
+      "JavaScript",
+      "Promises"
+    ]
+  },
+  "sidebar": "webDevelopment",
+  "previous": {
+    "title": "Introduction to Web Dev",
+    "permalink": "/web-development/intro"
+  },
+  "next": {
+    "title": "All 4 JavaScript Scopes Explained",
+    "permalink": "/web-development/JavaScript/all-4-javascript-scopes-explained"
+  }
+}

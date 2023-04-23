@@ -1,0 +1,35 @@
+{
+  "unversionedId": "web-development/JavaScript/all-4-javascript-scopes-explained",
+  "id": "web-development/JavaScript/all-4-javascript-scopes-explained",
+  "title": "All 4 JavaScript Scopes Explained",
+  "description": "If you have written even a single line of JavaScript code then you have used one of the four scopes of JavaScript without even realizing it.",
+  "source": "@site/docs/web-development/JavaScript/01_all-4-javascript-scopes-explained.mdx",
+  "sourceDirName": "web-development/JavaScript",
+  "slug": "/web-development/JavaScript/all-4-javascript-scopes-explained",
+  "permalink": "/web-development/JavaScript/all-4-javascript-scopes-explained",
+  "draft": false,
+  "editUrl": "https://github.com/ashuthe1/blog/tree/main/docs/web-development/JavaScript/01_all-4-javascript-scopes-explained.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "All 4 JavaScript Scopes Explained",
+    "displayed_sidebar": "webDevelopment",
+    "authors": "Ashutosh",
+    "keywords": [
+      "JavaScript"
+    ]
+  },
+  "sidebar": "webDevelopment",
+  "previous": {
+    "title": "Introduction to Web Dev",
+    "permalink": "/web-development/intro"
+  },
+  "next": {
+    "title": "JavaScript Promises",
+    "permalink": "/web-development/JavaScript/promise"
+  }
+}

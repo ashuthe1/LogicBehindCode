@@ -1,8 +1,8 @@
 {
   "unversionedId": "web-development/intro",
   "id": "web-development/intro",
-  "title": "intro",
-  "description": "Here Web Dev",
+  "title": "Introduction to Web Dev",
+  "description": "",
   "source": "@site/docs/web-development/01_intro.mdx",
   "sourceDirName": "web-development",
   "slug": "/web-development/intro",
@@ -19,5 +19,13 @@
     "sidebar_position": 4,
     "displayed_sidebar": "webDevelopment"
   },
-  "sidebar": "webDevelopment"
+  "sidebar": "webDevelopment",
+  "previous": {
+    "title": "MongoDB Ultimate Guide",
+    "permalink": "/web-development/mongodb"
+  },
+  "next": {
+    "title": "JavaScript Promises",
+    "permalink": "/web-development/JavaScript/promise"
+  }
 }

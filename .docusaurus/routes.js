@@ -124,7 +124,7 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/', 'b02'),
+    component: ComponentCreator('/', 'da4'),
     routes: [
       {
         path: '/algorithms/intro',
@@ -257,6 +257,24 @@ export default [
         component: ComponentCreator('/web-development/intro', '7b0'),
         exact: true,
         sidebar: "webDevelopment"
+      },
+      {
+        path: '/web-development/JavaScript/all-4-javascript-scopes-explained',
+        component: ComponentCreator('/web-development/JavaScript/all-4-javascript-scopes-explained', '88f'),
+        exact: true,
+        sidebar: "webDevelopment"
+      },
+      {
+        path: '/web-development/JavaScript/promise',
+        component: ComponentCreator('/web-development/JavaScript/promise', 'ac4'),
+        exact: true,
+        sidebar: "webDevelopment"
+      },
+      {
+        path: '/web-development/mongodb',
+        component: ComponentCreator('/web-development/mongodb', '14c'),
+        exact: true,
+        sidebar: "sidebar"
       }
     ]
   },

@@ -101,6 +101,21 @@
               "sidebar": "webDevelopment"
             },
             {
+              "id": "web-development/JavaScript/all-4-javascript-scopes-explained",
+              "path": "/web-development/JavaScript/all-4-javascript-scopes-explained",
+              "sidebar": "webDevelopment"
+            },
+            {
+              "id": "web-development/JavaScript/promise",
+              "path": "/web-development/JavaScript/promise",
+              "sidebar": "webDevelopment"
+            },
+            {
+              "id": "web-development/mongodb",
+              "path": "/web-development/mongodb",
+              "sidebar": "sidebar"
+            },
+            {
               "id": "/category/data-structures",
               "path": "/category/data-structures",
               "sidebar": "sidebar"
@@ -143,8 +158,8 @@
             },
             "webDevelopment": {
               "link": {
-                "path": "/web-development/intro",
-                "label": "web-development/intro"
+                "path": "/web-development/mongodb",
+                "label": "web-development/mongodb"
               }
             },
             "sidebar": {
