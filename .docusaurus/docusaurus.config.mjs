@@ -52,7 +52,7 @@ export default {
   ],
   "themeConfig": {
     "navbar": {
-      "title": "LogicBehindCode</>",
+      "title": "LogicBehindCode </>",
       "logo": {
         "alt": "LogicBehindCode Logo",
         "src": "https://ashutoshgautam.dev/static/media/pf3.90874d7910affe4198b6.png"

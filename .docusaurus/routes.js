@@ -139,7 +139,7 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/', '112'),
+    component: ComponentCreator('/', '53f'),
     routes: [
       {
         path: '/algorithms/intro',
@@ -275,7 +275,7 @@ export default [
       },
       {
         path: '/web-development/mongodb-tutorial',
-        component: ComponentCreator('/web-development/mongodb-tutorial', '7d3'),
+        component: ComponentCreator('/web-development/mongodb-tutorial', '584'),
         exact: true,
         sidebar: "sidebar"
       }
