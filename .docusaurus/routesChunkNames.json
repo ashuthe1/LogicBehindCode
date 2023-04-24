@@ -81,13 +81,6 @@
     "sidebar": "sidebar---cp-roadmap-for-beginners-and-people-below-specialist-814-4ee",
     "content": "content---mongodb-tutorial-9-bd-53c"
   },
-  "/tags-9d8": {
-    "__comp": "__comp---theme-doc-tags-list-page-372-89e",
-    "__context": {
-      "plugin": "plugin---3-ca-37d"
-    },
-    "tags": "tags---tags-559-690"
-  },
   "/tags-121": {
     "__comp": "__comp---theme-blog-tags-list-page-01-a-d0b",
     "__context": {
@@ -95,13 +88,6 @@
     },
     "sidebar": "sidebar---cp-roadmap-for-beginners-and-people-below-specialist-814-4ee",
     "tags": "tags---tagsc-57-e72"
-  },
-  "/tags/back-end-8dc": {
-    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "__context": {
-      "plugin": "plugin---3-ca-37d"
-    },
-    "tag": "tag---tags-back-ende-10-ddb"
   },
   "/tags/back-end-9db": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
@@ -158,27 +144,6 @@
     ],
     "tag": "tag---tags-cp-71-b-9bc",
     "listMetadata": "listMetadata---tags-cp-37-a-10d"
-  },
-  "/tags/database-f50": {
-    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "__context": {
-      "plugin": "plugin---3-ca-37d"
-    },
-    "tag": "tag---tags-database-3-d-9-c4f"
-  },
-  "/tags/database-7ec": {
-    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
-    "__context": {
-      "plugin": "plugin---archiveabc-595"
-    },
-    "sidebar": "sidebar---cp-roadmap-for-beginners-and-people-below-specialist-814-4ee",
-    "items": [
-      {
-        "content": "content---tags-back-end-1-a-6-f03"
-      }
-    ],
-    "tag": "tag---tags-databasebbd-f97",
-    "listMetadata": "listMetadata---tags-database-52-d-e26"
   },
   "/tags/dsa-a31": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
@@ -247,13 +212,6 @@
     ],
     "tag": "tag---tags-leetcode-daily-3-a-6-3e5",
     "listMetadata": "listMetadata---tags-leetcode-daily-941-bed"
-  },
-  "/tags/mongo-db-8c9": {
-    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "__context": {
-      "plugin": "plugin---3-ca-37d"
-    },
-    "tag": "tag---tags-mongo-db-3-cc-386"
   },
   "/tags/mongo-db-208": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
@@ -444,6 +402,6 @@
   },
   "/web-development/mongodb-tutorial-7d3": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---web-development-mongodbfb-0-62f"
+    "content": "content---web-development-mongodb-tutorialfb-0-985"
   }
 }

@@ -17,7 +17,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using kGitHub pages, you don't need these.
   organizationName: 'ashuthe1', // Usually your GitHub org/user name.
-  projectName: 'AshutoshBlogs', // Usually your repo name.
+  projectName: 'LogicBehindCode', // Usually your repo name.
   trailingSlash: false,
 
   // Even if you don't use internalization, you can use this field to set useful

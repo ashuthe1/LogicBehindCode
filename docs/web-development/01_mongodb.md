@@ -2,7 +2,6 @@
 slug: mongodb-tutorial
 title: MongoDB Tutorial
 authors: Ashutosh
-tags: [MongoDB, Database, BackEnd]
 ---
 
 # MongoDB Tutorial

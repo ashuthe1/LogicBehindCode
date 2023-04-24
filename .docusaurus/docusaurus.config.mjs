@@ -12,7 +12,7 @@ export default {
   "onBrokenMarkdownLinks": "warn",
   "favicon": "https://ashutoshgautam.dev/static/media/pf3.90874d7910affe4198b6.png",
   "organizationName": "ashuthe1",
-  "projectName": "AshutoshBlogs",
+  "projectName": "LogicBehindCode",
   "trailingSlash": false,
   "i18n": {
     "defaultLocale": "en",
@@ -363,13 +363,6 @@ export default {
         }
       ]
     },
-    "mermaid": {
-      "theme": {
-        "dark": "dark",
-        "light": "default"
-      },
-      "options": {}
-    },
     "colorMode": {
       "defaultMode": "light",
       "disableSwitch": false,
@@ -386,6 +379,13 @@ export default {
     "tableOfContents": {
       "minHeadingLevel": 2,
       "maxHeadingLevel": 3
+    },
+    "mermaid": {
+      "theme": {
+        "dark": "dark",
+        "light": "default"
+      },
+      "options": {}
     }
   },
   "baseUrlIssueBanner": true,

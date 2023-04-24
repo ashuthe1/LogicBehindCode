@@ -64,17 +64,7 @@ export default [
   },
   {
     path: '/tags',
-    component: ComponentCreator('/tags', '9d8'),
-    exact: true
-  },
-  {
-    path: '/tags',
     component: ComponentCreator('/tags', '121'),
-    exact: true
-  },
-  {
-    path: '/tags/back-end',
-    component: ComponentCreator('/tags/back-end', '8dc'),
     exact: true
   },
   {
@@ -98,16 +88,6 @@ export default [
     exact: true
   },
   {
-    path: '/tags/database',
-    component: ComponentCreator('/tags/database', 'f50'),
-    exact: true
-  },
-  {
-    path: '/tags/database',
-    component: ComponentCreator('/tags/database', '7ec'),
-    exact: true
-  },
-  {
     path: '/tags/dsa',
     component: ComponentCreator('/tags/dsa', 'a31'),
     exact: true
@@ -125,11 +105,6 @@ export default [
   {
     path: '/tags/leetcode-daily',
     component: ComponentCreator('/tags/leetcode-daily', 'cda'),
-    exact: true
-  },
-  {
-    path: '/tags/mongo-db',
-    component: ComponentCreator('/tags/mongo-db', '8c9'),
     exact: true
   },
   {

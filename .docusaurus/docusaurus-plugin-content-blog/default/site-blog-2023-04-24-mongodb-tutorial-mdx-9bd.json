@@ -12,10 +12,6 @@
       "permalink": "/tags/mongo-db"
     },
     {
-      "label": "Database",
-      "permalink": "/tags/database"
-    },
-    {
       "label": "BackEnd",
       "permalink": "/tags/back-end"
     }
@@ -25,7 +21,7 @@
   "authors": [
     {
       "name": "Ashutosh Gautam",
-      "title": "4 🌟 CodeChef🔸Specialist @CodeForces 🔸Problem Setter at iMochaWorks",
+      "title": "4 🌟 CodeChef🔸Specialist @CodeForces 🔸Full Stack Web Developer",
       "url": "https://www.linkedin.com/in/ashuthe1/",
       "imageURL": "https://avatars.githubusercontent.com/u/86846633?v=4",
       "key": "Ashutosh"
@@ -37,7 +33,6 @@
     "authors": "Ashutosh",
     "tags": [
       "MongoDB",
-      "Database",
       "BackEnd"
     ]
   },

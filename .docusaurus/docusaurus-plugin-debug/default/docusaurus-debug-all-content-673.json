@@ -605,20 +605,7 @@
               "permalink": "/web-development/mongodb-tutorial",
               "draft": false,
               "editUrl": "https://github.com/ashuthe1/LogicBehindCode/tree/main/docs/web-development/01_mongodb.md",
-              "tags": [
-                {
-                  "label": "MongoDB",
-                  "permalink": "/tags/mongo-db"
-                },
-                {
-                  "label": "Database",
-                  "permalink": "/tags/database"
-                },
-                {
-                  "label": "BackEnd",
-                  "permalink": "/tags/back-end"
-                }
-              ],
+              "tags": [],
               "version": "current",
               "lastUpdatedBy": "Author",
               "lastUpdatedAt": 1539502055,
@@ -627,12 +614,7 @@
               "frontMatter": {
                 "slug": "mongodb-tutorial",
                 "title": "MongoDB Tutorial",
-                "authors": "Ashutosh",
-                "tags": [
-                  "MongoDB",
-                  "Database",
-                  "BackEnd"
-                ]
+                "authors": "Ashutosh"
               },
               "sidebar": "sidebar",
               "previous": {
@@ -972,10 +954,6 @@
                 "permalink": "/tags/mongo-db"
               },
               {
-                "label": "Database",
-                "permalink": "/tags/database"
-              },
-              {
                 "label": "BackEnd",
                 "permalink": "/tags/back-end"
               }
@@ -985,7 +963,7 @@
             "authors": [
               {
                 "name": "Ashutosh Gautam",
-                "title": "4 🌟 CodeChef🔸Specialist @CodeForces 🔸Problem Setter at iMochaWorks",
+                "title": "4 🌟 CodeChef🔸Specialist @CodeForces 🔸Full Stack Web Developer",
                 "url": "https://www.linkedin.com/in/ashuthe1/",
                 "imageURL": "https://avatars.githubusercontent.com/u/86846633?v=4",
                 "key": "Ashutosh"
@@ -997,7 +975,6 @@
               "authors": "Ashutosh",
               "tags": [
                 "MongoDB",
-                "Database",
                 "BackEnd"
               ]
             },
@@ -1045,7 +1022,7 @@
             "authors": [
               {
                 "name": "Ashutosh Gautam",
-                "title": "4 🌟 CodeChef🔸Specialist @CodeForces 🔸Problem Setter at iMochaWorks",
+                "title": "4 🌟 CodeChef🔸Specialist @CodeForces 🔸Full Stack Web Developer",
                 "url": "https://www.linkedin.com/in/ashuthe1/",
                 "imageURL": "https://avatars.githubusercontent.com/u/86846633?v=4",
                 "key": "Ashutosh"
@@ -1111,7 +1088,7 @@
             "authors": [
               {
                 "name": "Ashutosh Gautam",
-                "title": "4 🌟 CodeChef🔸Specialist @CodeForces 🔸Problem Setter at iMochaWorks",
+                "title": "4 🌟 CodeChef🔸Specialist @CodeForces 🔸Full Stack Web Developer",
                 "url": "https://www.linkedin.com/in/ashuthe1/",
                 "imageURL": "https://avatars.githubusercontent.com/u/86846633?v=4",
                 "key": "Ashutosh"
@@ -1177,7 +1154,7 @@
             "authors": [
               {
                 "name": "Ashutosh Gautam",
-                "title": "4 🌟 CodeChef🔸Specialist @CodeForces 🔸Problem Setter at iMochaWorks",
+                "title": "4 🌟 CodeChef🔸Specialist @CodeForces 🔸Full Stack Web Developer",
                 "url": "https://www.linkedin.com/in/ashuthe1/",
                 "imageURL": "https://avatars.githubusercontent.com/u/86846633?v=4",
                 "key": "Ashutosh"
@@ -1236,29 +1213,6 @@
               ],
               "metadata": {
                 "permalink": "/tags/mongo-db",
-                "page": 1,
-                "postsPerPage": 10,
-                "totalPages": 1,
-                "totalCount": 1,
-                "blogDescription": "Blog",
-                "blogTitle": "Blog"
-              }
-            }
-          ]
-        },
-        "/tags/database": {
-          "label": "Database",
-          "items": [
-            "mongodb-tutorial"
-          ],
-          "permalink": "/tags/database",
-          "pages": [
-            {
-              "items": [
-                "mongodb-tutorial"
-              ],
-              "metadata": {
-                "permalink": "/tags/database",
                 "page": 1,
                 "postsPerPage": 10,
                 "totalPages": 1,
