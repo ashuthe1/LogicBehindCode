@@ -13,6 +13,10 @@ In this blog post, we will discuss the most used React Hooks and how to use them
 
 ## useState
 
+The `useState` hook is used to manage state in functional components. It takes two arguments: the initial state and a function that updates the state. The state is updated whenever the function is called.
+
+For example, the following code uses `useState` to create a counter:
+
 ```jsx
 const [count, setCount] = useState(0);
 
@@ -136,8 +140,8 @@ This will create a memoized version of the `expensiveCalculation` function. The 
 
 
 Reference
-1. www.btorange.com/2019/05/27/custom-react-hooks-unit-test.html
-2. www.github.com/MonguDykrai/react-ts-w8potu
-3. www.github.com/DmitriyGrosh/wallet
+1. https://www.w3schools.com/react/react_hooks.asp
+2. https://www.freecodecamp.org/news/full-guide-to-react-hooks/
+3. www.github.com/MonguDykrai/react-ts-w8potu
 
 Thank You for reading!
