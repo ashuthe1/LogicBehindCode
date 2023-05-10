@@ -1,6 +1,6 @@
 export default [
-  require('/home/ashuthe1/projects/personal/LogicBehindCode Blogs/node_modules/infima/dist/css/default/default.css'),
-  require('/home/ashuthe1/projects/personal/LogicBehindCode Blogs/node_modules/@docusaurus/theme-classic/lib/prism-include-languages'),
-  require('/home/ashuthe1/projects/personal/LogicBehindCode Blogs/node_modules/@docusaurus/theme-classic/lib/nprogress'),
-  require('/home/ashuthe1/projects/personal/LogicBehindCode Blogs/src/css/custom.css'),
+  require('/home/ashutosh/projects/personal/LogicBehindCode/node_modules/infima/dist/css/default/default.css'),
+  require('/home/ashutosh/projects/personal/LogicBehindCode/node_modules/@docusaurus/theme-classic/lib/prism-include-languages'),
+  require('/home/ashutosh/projects/personal/LogicBehindCode/node_modules/@docusaurus/theme-classic/lib/nprogress'),
+  require('/home/ashutosh/projects/personal/LogicBehindCode/src/css/custom.css'),
 ];

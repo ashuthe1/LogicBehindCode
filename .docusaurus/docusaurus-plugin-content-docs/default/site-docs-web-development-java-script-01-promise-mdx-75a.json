@@ -26,8 +26,8 @@
   },
   "sidebar": "webDevelopment",
   "previous": {
-    "title": "MongoDB Tutorial",
-    "permalink": "/web-development/mongodb-tutorial"
+    "title": "React Hooks",
+    "permalink": "/web-development/react-hooks"
   },
   "next": {
     "title": "JavaScript Scopes",

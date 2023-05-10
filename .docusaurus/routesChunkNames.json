@@ -1,98 +1,98 @@
 {
-  "/__docusaurus/debug-129": {
+  "/__docusaurus/debug-11e": {
     "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "plugin---docusaurus-debug-111-8e2"
+      "plugin": "plugin---docusaurus-debugf-86-deb"
     }
   },
-  "/__docusaurus/debug/config-10f": {
+  "/__docusaurus/debug/config-221": {
     "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "plugin---docusaurus-debug-111-8e2"
+      "plugin": "plugin---docusaurus-debugf-86-deb"
     }
   },
-  "/__docusaurus/debug/content-146": {
+  "/__docusaurus/debug/content-0ce": {
     "__comp": "__comp---theme-debug-contentba-8-ce7",
     "__context": {
-      "plugin": "plugin---docusaurus-debug-111-8e2"
+      "plugin": "plugin---docusaurus-debugf-86-deb"
     },
     "allContent": "allContent---docusaurus-debug-content-246-9aa"
   },
-  "/__docusaurus/debug/globalData-495": {
+  "/__docusaurus/debug/globalData-1d7": {
     "__comp": "__comp---theme-debug-global-dataede-0fa",
     "__context": {
-      "plugin": "plugin---docusaurus-debug-111-8e2"
+      "plugin": "plugin---docusaurus-debugf-86-deb"
     }
   },
-  "/__docusaurus/debug/metadata-1d5": {
+  "/__docusaurus/debug/metadata-e7f": {
     "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
     "__context": {
-      "plugin": "plugin---docusaurus-debug-111-8e2"
+      "plugin": "plugin---docusaurus-debugf-86-deb"
     }
   },
-  "/__docusaurus/debug/registry-116": {
+  "/__docusaurus/debug/registry-969": {
     "__comp": "__comp---theme-debug-registry-679-501",
     "__context": {
-      "plugin": "plugin---docusaurus-debug-111-8e2"
+      "plugin": "plugin---docusaurus-debugf-86-deb"
     }
   },
-  "/__docusaurus/debug/routes-699": {
+  "/__docusaurus/debug/routes-dd5": {
     "__comp": "__comp---theme-debug-routes-946-699",
     "__context": {
-      "plugin": "plugin---docusaurus-debug-111-8e2"
+      "plugin": "plugin---docusaurus-debugf-86-deb"
     }
   },
-  "/archive-ff7": {
+  "/archive-141": {
     "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
     "__context": {
-      "plugin": "plugin---archiveabc-595"
+      "plugin": "plugin---archive-5-fb-b3f"
     },
     "archive": "archive---archive-2-e-8-25f"
   },
-  "/cp-roadmap-for-beginners-and-people-below-specialist-56f": {
+  "/cp-roadmap-for-beginners-and-people-below-specialist-a11": {
     "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
-      "plugin": "plugin---archiveabc-595"
+      "plugin": "plugin---archive-5-fb-b3f"
     },
     "sidebar": "sidebar---cp-roadmap-for-beginners-and-people-below-specialist-814-4ee",
     "content": "content---cp-roadmap-for-beginners-and-people-below-specialistcdd-bfb"
   },
-  "/leetcode/implement-queue-using-stacks-7ae": {
+  "/leetcode/implement-queue-using-stacks-531": {
     "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
-      "plugin": "plugin---archiveabc-595"
+      "plugin": "plugin---archive-5-fb-b3f"
     },
     "sidebar": "sidebar---cp-roadmap-for-beginners-and-people-below-specialist-814-4ee",
     "content": "content---leetcode-implement-queue-using-stacks-0-de-1fc"
   },
-  "/leetcode/longest-common-subsequence-0a0": {
+  "/leetcode/longest-common-subsequence-c28": {
     "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
-      "plugin": "plugin---archiveabc-595"
+      "plugin": "plugin---archive-5-fb-b3f"
     },
     "sidebar": "sidebar---cp-roadmap-for-beginners-and-people-below-specialist-814-4ee",
     "content": "content---leetcode-longest-common-subsequence-4-a-6-a9b"
   },
-  "/mongodb-tutorial-c04": {
+  "/mongodb-tutorial-215": {
     "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
-      "plugin": "plugin---archiveabc-595"
+      "plugin": "plugin---archive-5-fb-b3f"
     },
     "sidebar": "sidebar---cp-roadmap-for-beginners-and-people-below-specialist-814-4ee",
     "content": "content---mongodb-tutorial-9-bd-53c"
   },
-  "/tags-121": {
+  "/tags-24c": {
     "__comp": "__comp---theme-blog-tags-list-page-01-a-d0b",
     "__context": {
-      "plugin": "plugin---archiveabc-595"
+      "plugin": "plugin---archive-5-fb-b3f"
     },
     "sidebar": "sidebar---cp-roadmap-for-beginners-and-people-below-specialist-814-4ee",
     "tags": "tags---tagsc-57-e72"
   },
-  "/tags/back-end-9db": {
+  "/tags/back-end-251": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "plugin---archiveabc-595"
+      "plugin": "plugin---archive-5-fb-b3f"
     },
     "sidebar": "sidebar---cp-roadmap-for-beginners-and-people-below-specialist-814-4ee",
     "items": [
@@ -103,10 +103,10 @@
     "tag": "tag---tags-back-end-4-a-4-d07",
     "listMetadata": "listMetadata---tags-back-end-6-fd-992"
   },
-  "/tags/code-chef-df9": {
+  "/tags/code-chef-011": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "plugin---archiveabc-595"
+      "plugin": "plugin---archive-5-fb-b3f"
     },
     "sidebar": "sidebar---cp-roadmap-for-beginners-and-people-below-specialist-814-4ee",
     "items": [
@@ -117,10 +117,10 @@
     "tag": "tag---tags-code-chef-434-211",
     "listMetadata": "listMetadata---tags-code-chefac-8-a44"
   },
-  "/tags/code-forces-685": {
+  "/tags/code-forces-468": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "plugin---archiveabc-595"
+      "plugin": "plugin---archive-5-fb-b3f"
     },
     "sidebar": "sidebar---cp-roadmap-for-beginners-and-people-below-specialist-814-4ee",
     "items": [
@@ -131,10 +131,10 @@
     "tag": "tag---tags-code-forces-95-a-ded",
     "listMetadata": "listMetadata---tags-code-forcesfd-7-3af"
   },
-  "/tags/cp-d8d": {
+  "/tags/cp-dc3": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "plugin---archiveabc-595"
+      "plugin": "plugin---archive-5-fb-b3f"
     },
     "sidebar": "sidebar---cp-roadmap-for-beginners-and-people-below-specialist-814-4ee",
     "items": [
@@ -145,10 +145,10 @@
     "tag": "tag---tags-cp-71-b-9bc",
     "listMetadata": "listMetadata---tags-cp-37-a-10d"
   },
-  "/tags/dsa-a31": {
+  "/tags/dsa-d34": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "plugin---archiveabc-595"
+      "plugin": "plugin---archive-5-fb-b3f"
     },
     "sidebar": "sidebar---cp-roadmap-for-beginners-and-people-below-specialist-814-4ee",
     "items": [
@@ -165,10 +165,10 @@
     "tag": "tag---tags-dsab-8-c-e2d",
     "listMetadata": "listMetadata---tags-dsafc-2-406"
   },
-  "/tags/dynamic-programming-308": {
+  "/tags/dynamic-programming-460": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "plugin---archiveabc-595"
+      "plugin": "plugin---archive-5-fb-b3f"
     },
     "sidebar": "sidebar---cp-roadmap-for-beginners-and-people-below-specialist-814-4ee",
     "items": [
@@ -179,10 +179,10 @@
     "tag": "tag---tags-dynamic-programming-685-10c",
     "listMetadata": "listMetadata---tags-dynamic-programmingeef-1b5"
   },
-  "/tags/leet-code-f46": {
+  "/tags/leet-code-815": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "plugin---archiveabc-595"
+      "plugin": "plugin---archive-5-fb-b3f"
     },
     "sidebar": "sidebar---cp-roadmap-for-beginners-and-people-below-specialist-814-4ee",
     "items": [
@@ -196,10 +196,10 @@
     "tag": "tag---tags-leet-code-807-86f",
     "listMetadata": "listMetadata---tags-leet-code-74-c-8b5"
   },
-  "/tags/leetcode-daily-cda": {
+  "/tags/leetcode-daily-363": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "plugin---archiveabc-595"
+      "plugin": "plugin---archive-5-fb-b3f"
     },
     "sidebar": "sidebar---cp-roadmap-for-beginners-and-people-below-specialist-814-4ee",
     "items": [
@@ -213,10 +213,10 @@
     "tag": "tag---tags-leetcode-daily-3-a-6-3e5",
     "listMetadata": "listMetadata---tags-leetcode-daily-941-bed"
   },
-  "/tags/mongo-db-208": {
+  "/tags/mongo-db-f5d": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "plugin---archiveabc-595"
+      "plugin": "plugin---archive-5-fb-b3f"
     },
     "sidebar": "sidebar---cp-roadmap-for-beginners-and-people-below-specialist-814-4ee",
     "items": [
@@ -227,10 +227,10 @@
     "tag": "tag---tags-mongo-db-6-ad-cc5",
     "listMetadata": "listMetadata---tags-mongo-dba-9-d-818"
   },
-  "/tags/queue-355": {
+  "/tags/queue-3ff": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "plugin---archiveabc-595"
+      "plugin": "plugin---archive-5-fb-b3f"
     },
     "sidebar": "sidebar---cp-roadmap-for-beginners-and-people-below-specialist-814-4ee",
     "items": [
@@ -241,10 +241,10 @@
     "tag": "tag---tags-queue-66-c-92f",
     "listMetadata": "listMetadata---tags-queue-762-79f"
   },
-  "/tags/roadmap-c43": {
+  "/tags/roadmap-c40": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "plugin---archiveabc-595"
+      "plugin": "plugin---archive-5-fb-b3f"
     },
     "sidebar": "sidebar---cp-roadmap-for-beginners-and-people-below-specialist-814-4ee",
     "items": [
@@ -255,10 +255,10 @@
     "tag": "tag---tags-roadmapdcf-5e5",
     "listMetadata": "listMetadata---tags-roadmap-962-7f0"
   },
-  "/tags/stack-c8d": {
+  "/tags/stack-5b4": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "plugin---archiveabc-595"
+      "plugin": "plugin---archive-5-fb-b3f"
     },
     "sidebar": "sidebar---cp-roadmap-for-beginners-and-people-below-specialist-814-4ee",
     "items": [
@@ -269,10 +269,10 @@
     "tag": "tag---tags-stackcf-1-58e",
     "listMetadata": "listMetadata---tags-stack-185-0ef"
   },
-  "/tags/string-5ba": {
+  "/tags/string-070": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "plugin---archiveabc-595"
+      "plugin": "plugin---archive-5-fb-b3f"
     },
     "sidebar": "sidebar---cp-roadmap-for-beginners-and-people-below-specialist-814-4ee",
     "items": [
@@ -283,10 +283,10 @@
     "tag": "tag---tags-string-66-b-c19",
     "listMetadata": "listMetadata---tags-string-196-b87"
   },
-  "/-71e": {
+  "/-4db": {
     "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
     "__context": {
-      "plugin": "plugin---archiveabc-595"
+      "plugin": "plugin---archive-5-fb-b3f"
     },
     "sidebar": "sidebar---cp-roadmap-for-beginners-and-people-below-specialist-814-4ee",
     "items": [
@@ -305,10 +305,10 @@
     ],
     "metadata": "metadata---a-55-c63"
   },
-  "/-53f": {
+  "/-231": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
-      "plugin": "plugin---3-ca-37d"
+      "plugin": "plugin---a-86-dc8"
     },
     "versionMetadata": "versionMetadata---935-fcf"
   },
@@ -403,5 +403,9 @@
   "/web-development/mongodb-tutorial-584": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---web-development-mongodb-tutorial-636-429"
+  },
+  "/web-development/react-hooks-97f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---web-development-react-hooks-27-e-0f7"
   }
 }

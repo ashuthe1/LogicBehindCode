@@ -15,9 +15,9 @@
           "editUrlLocalized": "https://github.com/ashuthe1/LogicBehindCode/tree/main/i18n/en/docusaurus-plugin-content-docs/current",
           "isLast": true,
           "routePriority": -1,
-          "sidebarFilePath": "/home/ashuthe1/projects/personal/LogicBehindCode Blogs/sidebars.js",
-          "contentPath": "/home/ashuthe1/projects/personal/LogicBehindCode Blogs/docs",
-          "contentPathLocalized": "/home/ashuthe1/projects/personal/LogicBehindCode Blogs/i18n/en/docusaurus-plugin-content-docs/current",
+          "sidebarFilePath": "/home/ashutosh/projects/personal/LogicBehindCode/sidebars.js",
+          "contentPath": "/home/ashutosh/projects/personal/LogicBehindCode/docs",
+          "contentPathLocalized": "/home/ashutosh/projects/personal/LogicBehindCode/i18n/en/docusaurus-plugin-content-docs/current",
           "docs": [
             {
               "unversionedId": "algorithms/intro",
@@ -586,8 +586,8 @@
               },
               "sidebar": "webDevelopment",
               "previous": {
-                "title": "MongoDB Tutorial",
-                "permalink": "/web-development/mongodb-tutorial"
+                "title": "React Hooks",
+                "permalink": "/web-development/react-hooks"
               },
               "next": {
                 "title": "JavaScript Scopes",
@@ -620,6 +620,38 @@
               "previous": {
                 "title": "Web Development",
                 "permalink": "/category/web-development"
+              },
+              "next": {
+                "title": "React Hooks",
+                "permalink": "/web-development/react-hooks"
+              }
+            },
+            {
+              "unversionedId": "web-development/reactHooks",
+              "id": "web-development/reactHooks",
+              "title": "React Hooks",
+              "description": "Introduction",
+              "source": "@site/docs/web-development/02-reactHooks.md",
+              "sourceDirName": "web-development",
+              "slug": "/web-development/react-hooks",
+              "permalink": "/web-development/react-hooks",
+              "draft": false,
+              "editUrl": "https://github.com/ashuthe1/LogicBehindCode/tree/main/docs/web-development/02-reactHooks.md",
+              "tags": [],
+              "version": "current",
+              "lastUpdatedBy": "Author",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "Oct 14, 2018",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "slug": "react-hooks",
+                "title": "React Hooks",
+                "authors": "Ashutosh"
+              },
+              "sidebar": "sidebar",
+              "previous": {
+                "title": "MongoDB Tutorial",
+                "permalink": "/web-development/mongodb-tutorial"
               },
               "next": {
                 "title": "JavaScript Promises",
@@ -736,6 +768,10 @@
               {
                 "type": "doc",
                 "id": "web-development/mongodb"
+              },
+              {
+                "type": "doc",
+                "id": "web-development/reactHooks"
               },
               {
                 "type": "category",
@@ -903,6 +939,10 @@
                   {
                     "type": "doc",
                     "id": "web-development/mongodb"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "web-development/reactHooks"
                   },
                   {
                     "type": "category",

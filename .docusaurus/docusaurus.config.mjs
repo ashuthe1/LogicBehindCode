@@ -33,7 +33,7 @@ export default {
       "classic",
       {
         "docs": {
-          "sidebarPath": "/home/ashuthe1/projects/personal/LogicBehindCode Blogs/sidebars.js",
+          "sidebarPath": "/home/ashutosh/projects/personal/LogicBehindCode/sidebars.js",
           "editUrl": "https://github.com/ashuthe1/LogicBehindCode/tree/main/",
           "routeBasePath": "/",
           "showLastUpdateTime": true,
@@ -45,7 +45,7 @@ export default {
           "editUrl": "https://github.com/ashuthe1/LogicBehindCode/tree/main/"
         },
         "theme": {
-          "customCss": "/home/ashuthe1/projects/personal/LogicBehindCode Blogs/src/css/custom.css"
+          "customCss": "/home/ashutosh/projects/personal/LogicBehindCode/src/css/custom.css"
         }
       }
     ]
